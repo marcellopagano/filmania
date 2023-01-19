@@ -1,0 +1,6512 @@
+[
+    {
+        "id": 1,
+        "poster": "10 Cloverfield Lane.jpg",
+        "trailer": "8lO--pH4cXA",
+        "title": "10 Cloverfield Lane",
+        "genre": "Sci-fi, Thriller",
+        "year": "2016",
+        "Duration": "1h 45m",
+        "score": 3
+    },
+    {
+        "id": 2,
+        "poster": "12 Anni Schiavo.jpg",
+        "trailer": "8PQYQ_Cfz0U",
+        "title": "12 Anni Schiavo",
+        "genre": "Storia, Drammatico",
+        "year": "2013",
+        "Duration": "2h 14m",
+        "score": 4
+    },
+    {
+        "id": 3,
+        "poster": "127 Ore.jpg",
+        "trailer": "pgp_2Wi8rno",
+        "title": "127 Ore",
+        "genre": "Drammatico, Avventura",
+        "year": "2010",
+        "Duration": "1h 35m",
+        "score": 4
+    },
+    {
+        "id": 4,
+        "poster": "1408.jpg",
+        "trailer": "eezfsVAinO0",
+        "title": "1408",
+        "genre": "Horror, Thriller",
+        "year": "2007",
+        "Duration": "1h 52m",
+        "score": 4
+    },
+    {
+        "id": 5,
+        "poster": "1981 Indagine A New York.jpg",
+        "trailer": "A-Nvd-7LW9s",
+        "title": "1981 Indagine A New York",
+        "genre": "Thriller, Drammatico",
+        "year": "2014",
+        "Duration": "2h 5m",
+        "score": 3
+    },
+    {
+        "id": 6,
+        "poster": "1997 - Fuga Da New York.jpg",
+        "trailer": "qjjG3UyyDpw",
+        "title": "1997 - Fuga Da New York",
+        "genre": " Azione, Sci-fi",
+        "year": "1981",
+        "Duration": "1h 39m",
+        "score": 4
+    },
+    {
+        "id": 7,
+        "poster": "2001 odissea nello spazio.jpg",
+        "trailer": "ivPu3t2j4Fg",
+        "title": "2001: odissea nello spazio",
+        "genre": "Sci-fi, Avventura",
+        "year": "1968",
+        "Duration": "2h 19m",
+        "score": 5
+    },
+    {
+        "id": 8,
+        "poster": "2010 - L'anno del contatto.jpg",
+        "trailer": "sBRxRmmNxdM",
+        "title": "2010 - L'anno del contatto",
+        "genre": "Sci-fi, Avventura",
+        "year": "1984",
+        "Duration": "1h 56m",
+        "score": 3
+    },
+    {
+        "id": 9,
+        "poster": "24 Ore.jpg",
+        "trailer": "pu_hGAEDOH4",
+        "title": "24 Ore",
+        "genre": "Thriller, Giallo",
+        "year": "2002",
+        "Duration": "1h 46m",
+        "score": 3
+    },
+    {
+        "id": 10,
+        "poster": "300 - L'Alba Di Un Impero.jpg",
+        "trailer": "6CgmWxHNfUc",
+        "title": "300 - L'Alba Di Un Impero",
+        "genre": "Azione, Guerra",
+        "year": "2014",
+        "Duration": "1h 42m",
+        "score": 3
+    },
+    {
+        "id": 11,
+        "poster": "300 AC.jpg",
+        "trailer": "DDT7SgX-olU",
+        "title": "300 AC",
+        "genre": "Azione, Guerra",
+        "year": "2006",
+        "Duration": "1h 57m",
+        "score": 3
+    },
+    {
+        "id": 12,
+        "poster": "40 Carati.jpg",
+        "trailer": "9ooeXsalJIc",
+        "title": "40 Carati",
+        "genre": "Thriller, Giallo",
+        "year": "2012",
+        "Duration": "1h 42m",
+        "score": 3
+    },
+    {
+        "id": 13,
+        "poster": "47 Ronin.jpg",
+        "trailer": "6idTJgH9xTE",
+        "title": "47 Ronin",
+        "genre": "Azione, Fantastico",
+        "year": "2013",
+        "Duration": "2h 8m",
+        "score": 3
+    },
+    {
+        "id": 14,
+        "poster": "47 metri - 47 Meters Down.jpg",
+        "trailer": "F-p7ozEUD-Q",
+        "title": "47 metri - 47 Meters Down",
+        "genre": "Horror, Thriller",
+        "year": "2017",
+        "Duration": "1h 29m",
+        "score": 3
+    },
+    {
+        "id": 15,
+        "poster": "5 giorni fuori.jpg",
+        "trailer": "N2K-Mu0-Dwc",
+        "title": "5 giorni fuori",
+        "genre": "Romantico, Drammatico",
+        "year": "2010",
+        "Duration": "1h 41m",
+        "score": 4
+    },
+    {
+        "id": 16,
+        "poster": "9.jpg",
+        "trailer": "4-TPODO56Gw",
+        "title": "9",
+        "genre": "Animazione, Fantastico",
+        "year": "2009",
+        "Duration": "1h 19m",
+        "score": 3
+    },
+    {
+        "id": 17,
+        "poster": "A testa alta.jpg",
+        "trailer": "2IzelD_xehI",
+        "title": "A testa alta",
+        "genre": "Drammatico",
+        "year": "2015",
+        "Duration": "2h",
+        "score": 4
+    },
+    {
+        "id": 18,
+        "poster": "AK-47 - Kalashnikov.jpg",
+        "trailer": "hb0K0CPXfB0",
+        "title": "AK-47 - Kalashnikov",
+        "genre": "Drammatico, Storia",
+        "year": "2020",
+        "Duration": "1h",
+        "score": 4
+    },
+    {
+        "id": 19,
+        "poster": "Ad Astra.jpg",
+        "trailer": "k1dFqDhoS9A",
+        "title": "Ad Astra",
+        "genre": "Sci-fi, Thriller",
+        "year": "2019",
+        "Duration": "2h 4m",
+        "score": 2
+    },
+    {
+        "id": 20,
+        "poster": "After Earth.jpg",
+        "trailer": "802y9b5yEWA",
+        "title": "After Earth",
+        "genre": "Sci-fi, Azione",
+        "year": "2013",
+        "Duration": "1h 40m",
+        "score": 4
+    },
+    {
+        "id": 21,
+        "poster": "Agente Smart - Casino totale.jpg",
+        "trailer": "7UMi9_6DZmY",
+        "title": "Agente Smart - Casino totale",
+        "genre": "Commedia, Azione",
+        "year": "2008",
+        "Duration": "1h 50m",
+        "score": 4
+    },
+    {
+        "id": 22,
+        "poster": "Agora.jpg",
+        "trailer": "A5-DyM749Bo",
+        "title": "Agora",
+        "genre": "Drammatico, Avventura",
+        "year": "2009",
+        "Duration": "2h 21m",
+        "score": 4
+    },
+    {
+        "id": 23,
+        "poster": "Alessandro il grande.jpg",
+        "trailer": "v9gRMSuPYCE",
+        "title": "Alessandro il grande",
+        "genre": "Guerra, Avventura",
+        "year": "2004",
+        "Duration": "2h 55m",
+        "score": 3
+    },
+    {
+        "id": 24,
+        "poster": "Alice attraverso lo specchio.jpg",
+        "trailer": "k2oDnZPf8-8",
+        "title": "Alice attraverso lo specchio",
+        "genre": "Fantastico, Avventura",
+        "year": "2016",
+        "Duration": "1h 53m",
+        "score": 3
+    },
+    {
+        "id": 25,
+        "poster": "Alice in wonderland.jpg",
+        "trailer": "u5kn6k9spJs",
+        "title": "Alice in wonderland",
+        "genre": "Fantastico, Avventura",
+        "year": "2010",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 26,
+        "poster": "Alien.jpg",
+        "trailer": "LQVKdkdXXrY",
+        "title": "Alien",
+        "genre": "Sci-fi, Horror",
+        "year": "1979",
+        "Duration": "1h 57m",
+        "score": 5
+    },
+    {
+        "id": 27,
+        "poster": "Alien - Covenant.jpg",
+        "trailer": "ftYzvMD5Wjc",
+        "title": "Alien - Covenant",
+        "genre": "Sci-fi, Horror",
+        "year": "2017",
+        "Duration": "2h 3m",
+        "score": 4
+    },
+    {
+        "id": 28,
+        "poster": "Alien 3.jpg",
+        "trailer": "SqpxkoWiFVU",
+        "title": "Alien 3",
+        "genre": "Sci-fi, Horror",
+        "year": "1992",
+        "Duration": "1h 54m",
+        "score": 3
+    },
+    {
+        "id": 29,
+        "poster": "Aliens 2 - Scontro Finale.jpg",
+        "trailer": "QSXr3LEggnU",
+        "title": "Aliens 2 - Scontro Finale",
+        "genre": "Sci-fi, Horror",
+        "year": "1986",
+        "Duration": "2h 17m",
+        "score": 4
+    },
+    {
+        "id": 30,
+        "poster": "Alita - Angelo della battaglia.jpg",
+        "trailer": "o0a2rrPjOvM",
+        "title": "Alita - Angelo della battaglia",
+        "genre": "Sci-fi, Azione",
+        "year": "2019",
+        "Duration": "2h 2m",
+        "score": 4
+    },
+    {
+        "id": 31,
+        "poster": "Alive - Sopravvissuti.jpg",
+        "trailer": "A1dKWDHeMlc",
+        "title": "Alive - Sopravvissuti",
+        "genre": "Drammatico, Catastrofico",
+        "year": "1993",
+        "Duration": "2h",
+        "score": 3
+    },
+    {
+        "id": 32,
+        "poster": "All Day and a Night.jpg",
+        "trailer": "nAJk21_hiHk",
+        "title": "All Day and a Night",
+        "genre": "Drammatico",
+        "year": "2020",
+        "Duration": "2h 1m",
+        "score": 3
+    },
+    {
+        "id": 33,
+        "poster": "Allarme rosso - Crimson Tide.jpg",
+        "trailer": "pOtVK8tLM68",
+        "title": "Allarme rosso - Crimson Tide",
+        "genre": "Guerra, Azione",
+        "year": "1995",
+        "Duration": "1h 56m",
+        "score": 4
+    },
+    {
+        "id": 34,
+        "poster": "Ambulance.jpg",
+        "trailer": "fkxXcyxB5xM",
+        "title": "Ambulance",
+        "genre": "Azione, Giallo",
+        "year": "2022",
+        "Duration": "2h",
+        "score": 3
+    },
+    {
+        "id": 35,
+        "poster": "Amen.jpg",
+        "trailer": "EwvR4jXWqL8",
+        "title": "Amen",
+        "genre": "Guerra, Drammatico",
+        "year": "2002",
+        "Duration": "2h 12m",
+        "score": 4
+    },
+    {
+        "id": 36,
+        "poster": "America Oggi.jpg",
+        "trailer": "I8buKc5uQZg",
+        "title": "America Oggi",
+        "genre": "Drammatico",
+        "year": "1993",
+        "Duration": "3h 7m",
+        "score": 4
+    },
+    {
+        "id": 37,
+        "poster": "American Beauty.jpg",
+        "trailer": "AlsedU-JAE8",
+        "title": "American Beauty",
+        "genre": "Romantico, Drammatico",
+        "year": "1999",
+        "Duration": "2h 2m",
+        "score": 4
+    },
+    {
+        "id": 38,
+        "poster": "American Gangster.jpg",
+        "trailer": "xoXV8rpyoG4",
+        "title": "American Gangster",
+        "genre": "Drammatico, Giallo",
+        "year": "2007",
+        "Duration": "2h 56m",
+        "score": 4
+    },
+    {
+        "id": 39,
+        "poster": "American History X.jpg",
+        "trailer": "d1wf2l-vIVg",
+        "title": "American History X",
+        "genre": "Drammatico, Giallo",
+        "year": "1998",
+        "Duration": "1h 59m",
+        "score": 4
+    },
+    {
+        "id": 40,
+        "poster": "American Psycho.jpg",
+        "trailer": "p53y1XUgBVc",
+        "title": "American Psycho",
+        "genre": "Horror, Thriller",
+        "year": "2000",
+        "Duration": "1h 42m",
+        "score": 4
+    },
+    {
+        "id": 41,
+        "poster": "American hustle - L'apparenza Inganna.jpg",
+        "trailer": "4L2nZQ-IheI",
+        "title": "American hustle - L'apparenza Inganna",
+        "genre": "Giallo, Drammatico",
+        "year": "2013",
+        "Duration": "2h 18m",
+        "score": 3
+    },
+    {
+        "id": 42,
+        "poster": "Amici Miei - Atto I.jpg",
+        "trailer": "uPxsg_n5Pvk",
+        "title": "Amici Miei - Atto I",
+        "genre": "Commedia, Drammatico",
+        "year": "1975",
+        "Duration": "2h 10m",
+        "score": 4
+    },
+    {
+        "id": 43,
+        "poster": "Amici Miei Atto II.jpg",
+        "trailer": "cfdZ-0YO7Aw",
+        "title": "Amici Miei Atto II",
+        "genre": "Commedia, Drammatico",
+        "year": "1982",
+        "Duration": "2h 10m",
+        "score": 4
+    },
+    {
+        "id": 44,
+        "poster": "Anchorman - La Leggenda di Ron Burgundy.jpg",
+        "trailer": "_lW1VEzj8do",
+        "title": "Anchorman - La Leggenda di Ron Burgundy",
+        "genre": "Commedia",
+        "year": "2004",
+        "Duration": "1h 34m",
+        "score": 4
+    },
+    {
+        "id": 45,
+        "poster": "Animali notturni.jpg",
+        "trailer": "oI5OxXU0y4o",
+        "title": "Animali notturni",
+        "genre": "Thriller, Drammatico",
+        "year": "2016",
+        "Duration": "1h 56m",
+        "score": 3
+    },
+    {
+        "id": 46,
+        "poster": "Anna Karenina.jpg",
+        "trailer": "iyMqJCG-gHU",
+        "title": "Anna Karenina",
+        "genre": "Romantico, Drammatico",
+        "year": "2012",
+        "Duration": "2h 10m",
+        "score": 3
+    },
+    {
+        "id": 47,
+        "poster": "Annientamento - Annihilation.jpg",
+        "trailer": "bMdW9dpmLXY",
+        "title": "Annientamento - Annihilation",
+        "genre": "Sci-fi, Horror",
+        "year": "2018",
+        "Duration": "2h",
+        "score": 3
+    },
+    {
+        "id": 48,
+        "poster": "Anon.jpg",
+        "trailer": "RJOoYhQcQBI",
+        "title": "Anon",
+        "genre": "Sci-fi, Thriller",
+        "year": "2018",
+        "Duration": "1h 40m",
+        "score": 3
+    },
+    {
+        "id": 49,
+        "poster": "Anonymous.jpg",
+        "trailer": "ABhB5hAr_-I",
+        "title": "Anonymous",
+        "genre": "Drammatico, Storico",
+        "year": "2011",
+        "Duration": "2h 11m",
+        "score": 3
+    },
+    {
+        "id": 50,
+        "poster": "Ant-Man.jpg",
+        "trailer": "nbcbZlAbg9w",
+        "title": "Ant-Man",
+        "genre": "Azione, Avventura",
+        "year": "2015",
+        "Duration": "1h 58m",
+        "score": 3
+    },
+    {
+        "id": 51,
+        "poster": "Ant-Man And The Wasp.jpg",
+        "trailer": "mIYQ3bpxcws",
+        "title": "Ant-Man And The Wasp",
+        "genre": "Avventura, Fantastico",
+        "year": "2018",
+        "Duration": "2h",
+        "score": 3
+    },
+    {
+        "id": 52,
+        "poster": "Apocalypto.jpg",
+        "trailer": "ngWBddVNVZs",
+        "title": "Apocalypto",
+        "genre": "Avventura, Azione",
+        "year": "2006",
+        "Duration": "2h 18m",
+        "score": 4
+    },
+    {
+        "id": 53,
+        "poster": "Apollo 13.jpg",
+        "trailer": "xktzbtKwzak",
+        "title": "Apollo 13",
+        "genre": "Drammatico, Storico",
+        "year": "1995",
+        "Duration": "2h 20m",
+        "score": 4
+    },
+    {
+        "id": 54,
+        "poster": "Appaloosa.jpg",
+        "trailer": "T13Qp6c-Tys",
+        "title": "Appaloosa",
+        "genre": "Western, Drammatico",
+        "year": "2008",
+        "Duration": "1h 55m",
+        "score": 3
+    },
+    {
+        "id": 55,
+        "poster": "Arancia meccanica.jpg",
+        "trailer": "zze8aLUops4",
+        "title": "Arancia meccanica",
+        "genre": "Drammatico, Giallo",
+        "year": "1971",
+        "Duration": "2h 16m",
+        "score": 5
+    },
+    {
+        "id": 56,
+        "poster": "Archive.jpg",
+        "trailer": "vDHaojuUWJU",
+        "title": "Archive",
+        "genre": "Sci-fi, Thriller",
+        "year": "2020",
+        "Duration": "1h 49m",
+        "score": 3
+    },
+    {
+        "id": 57,
+        "poster": "Arrival.jpg",
+        "trailer": "IaUYPiTiMw8",
+        "title": "Arrival",
+        "genre": "Sci-fi, Thriller",
+        "year": "2016",
+        "Duration": "1h 56m",
+        "score": 3
+    },
+    {
+        "id": 58,
+        "poster": "Assassinio Sul Nilo.jpg",
+        "trailer": "EMyStqlyQk0",
+        "title": "Assassinio Sul Nilo",
+        "genre": "Avventura, Giallo",
+        "year": "2022",
+        "Duration": "2h 7m",
+        "score": 3
+    },
+    {
+        "id": 59,
+        "poster": "Assassinio sull'Orient Express.jpg",
+        "trailer": "hax5cvqOdUs",
+        "title": "Assassinio sull'Orient Express",
+        "genre": "Avventura, Giallo",
+        "year": "2017",
+        "Duration": "1h 54m",
+        "score": 3
+    },
+    {
+        "id": 60,
+        "poster": "Atmosfera zero - Outland.jpg",
+        "trailer": "B9q4QXhTBp4",
+        "title": "Atmosfera zero - Outland",
+        "genre": "Sci-fi, Azione",
+        "year": "1981",
+        "Duration": "1h 52m",
+        "score": 3
+    },
+    {
+        "id": 61,
+        "poster": "Atomica Bionda.jpg",
+        "trailer": "ZCnzKI--HKU",
+        "title": "Atomica Bionda",
+        "genre": "Azione, Thriller",
+        "year": "2017",
+        "Duration": "1h 55m",
+        "score": 3
+    },
+    {
+        "id": 62,
+        "poster": "Autopsy.jpg",
+        "trailer": "O8NDSu3gsmA",
+        "title": "Autopsy",
+        "genre": "Horror, Thriller",
+        "year": "2016",
+        "Duration": "1h 26m",
+        "score": 4
+    },
+    {
+        "id": 63,
+        "poster": "Balle spaziali - Spaceballs.jpg",
+        "trailer": "Yd8ILaBL92s",
+        "title": "Balle spaziali - Spaceballs",
+        "genre": "Sci-fi, Commedia",
+        "year": "1987",
+        "Duration": "1h 36m",
+        "score": 3
+    },
+    {
+        "id": 64,
+        "poster": "Bastardi Senza Gloria.jpg",
+        "trailer": "bkFVk4zkxu0",
+        "title": "Bastardi Senza Gloria",
+        "genre": "Guerra, Drammatico",
+        "year": "2009",
+        "Duration": "2h 33m",
+        "score": 4
+    },
+    {
+        "id": 65,
+        "poster": "Bastardi in divisa.jpg",
+        "trailer": "1WU20aLYG7U",
+        "title": "Bastardi in divisa",
+        "genre": "Commedia, Azione",
+        "year": "2014",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 66,
+        "poster": "Batman Begins.jpg",
+        "trailer": "KCq4ES_kq2g",
+        "title": "Batman Begins",
+        "genre": "Azione, Fantastico",
+        "year": "2005",
+        "Duration": "2h 20m",
+        "score": 3
+    },
+    {
+        "id": 67,
+        "poster": "Beetlejuice - Spiritello porcello.jpg",
+        "trailer": "uATHZpU5pOM",
+        "title": "Beetlejuice - Spiritello porcello",
+        "genre": "Fantastico, Commedia",
+        "year": "1988",
+        "Duration": "1h 32m",
+        "score": 3
+    },
+    {
+        "id": 68,
+        "poster": "Ben-Hur.jpg",
+        "trailer": "Lu8N6qtOJQA",
+        "title": "Ben-Hur",
+        "genre": "Drammatico, Avventura",
+        "year": "2016",
+        "Duration": "2h 3m",
+        "score": 3
+    },
+    {
+        "id": 69,
+        "poster": "Benvenuto Presidente.jpg",
+        "trailer": "MkHJSLEKPVI",
+        "title": "Benvenuto Presidente",
+        "genre": "Commedia",
+        "year": "2013",
+        "Duration": "1h 40m",
+        "score": 3
+    },
+    {
+        "id": 70,
+        "poster": "Big Hero 6.jpg",
+        "trailer": "DlLHLlk84cg",
+        "title": "Big Hero 6",
+        "genre": "Avventura, Animazione",
+        "year": "2014",
+        "Duration": "1h 42m",
+        "score": 4
+    },
+    {
+        "id": 71,
+        "poster": "Birdman.jpg",
+        "trailer": "Dd3xWZjWFzg",
+        "title": "Birdman",
+        "genre": "Drammatico, Commedia",
+        "year": "2014",
+        "Duration": "2h",
+        "score": 4
+    },
+    {
+        "id": 72,
+        "poster": "BlacKkKlansman.jpg",
+        "trailer": "Cp9IjT-1k4k",
+        "title": "BlacKkKlansman",
+        "genre": "Drammatico, Giallo",
+        "year": "2018",
+        "Duration": "2h 14m",
+        "score": 4
+    },
+    {
+        "id": 73,
+        "poster": "Black Mass.jpg",
+        "trailer": "eI5cOHNrqic",
+        "title": "Black Mass",
+        "genre": "Giallo, Drammatico",
+        "year": "2015",
+        "Duration": "2h 3m",
+        "score": 3
+    },
+    {
+        "id": 74,
+        "poster": "Black Sea.jpg",
+        "trailer": "PAwTWsC4tEY",
+        "title": "Black Sea",
+        "genre": "Avventura, Thriller",
+        "year": "2014",
+        "Duration": "1h 54m",
+        "score": 3
+    },
+    {
+        "id": 75,
+        "poster": "Blade Runner.jpg",
+        "trailer": "1BY0XjWtc-c",
+        "title": "Blade Runner",
+        "genre": "Sci-fi, Azione",
+        "year": "1982",
+        "Duration": "1h 57m",
+        "score": 5
+    },
+    {
+        "id": 76,
+        "poster": "Blade Runner 2049.jpg",
+        "trailer": "f2jW75Q8EaI",
+        "title": "Blade Runner 2049",
+        "genre": "Sci-fi, Azione",
+        "year": "2017",
+        "Duration": "2h 43m",
+        "score": 4
+    },
+    {
+        "id": 77,
+        "poster": "Bleed Piu forte del destino.jpg",
+        "trailer": "gxZP979zzxk",
+        "title": "Bleed Piu forte del destino",
+        "genre": "Drammatico, Sportivo",
+        "year": "2016",
+        "Duration": "1h 57m",
+        "score": 3
+    },
+    {
+        "id": 78,
+        "poster": "Bloodshot.jpg",
+        "trailer": "tOu8WmOWqIA",
+        "title": "Bloodshot",
+        "genre": "Azione, Sci-fi",
+        "year": "2020",
+        "Duration": "1h 49m",
+        "score": 3
+    },
+    {
+        "id": 79,
+        "poster": "1 km da Wall Street.jpg",
+        "trailer": "M3boa2CdC68",
+        "title": "1 km da Wall Street",
+        "genre": "Drammatico, Giallo",
+        "year": "2000",
+        "Duration": "2h",
+        "score": 3
+    },
+    {
+        "id": 80,
+        "poster": "Bombshell.jpg",
+        "trailer": "qsjM4iRwjE0",
+        "title": "Bombshell",
+        "genre": "Drammatico",
+        "year": "2019",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 81,
+        "poster": "Brick Mansions.jpg",
+        "trailer": "2uYDiJZSpHI",
+        "title": "Brick Mansions",
+        "genre": "Azione, Giallo",
+        "year": "2014",
+        "Duration": "1h 30m",
+        "score": 3
+    },
+    {
+        "id": 82,
+        "poster": "Bronson.jpg",
+        "trailer": "V4BEObvNt-U",
+        "title": "Bronson",
+        "genre": "Drammatico, Giallo",
+        "year": "2008",
+        "Duration": "1h 32m",
+        "score": 4
+    },
+    {
+        "id": 83,
+        "poster": "C'era una volta il West.jpg",
+        "trailer": "dYFiuZK51-A",
+        "title": "C'era una volta il West",
+        "genre": "Western, Drammatico",
+        "year": "1968",
+        "Duration": "2h 55m",
+        "score": 4
+    },
+    {
+        "id": 84,
+        "poster": "Caccia a  Ottobre Rosso.jpg",
+        "trailer": "PLhPWVq7R5Y",
+        "title": "Caccia a Ottobre Rosso",
+        "genre": "Thriller, Azione",
+        "year": "1990",
+        "Duration": "2h 15m",
+        "score": 4
+    },
+    {
+        "id": 85,
+        "poster": "Caccia al ladro.jpg",
+        "trailer": "95Q-ldv8vR8",
+        "title": "Caccia al ladro",
+        "genre": "Thriller",
+        "year": "1955",
+        "Duration": "1h 46m",
+        "score": 4
+    },
+    {
+        "id": 86,
+        "poster": "Candidato a Sorpresa.jpg",
+        "trailer": "nMHfPwWU7gM",
+        "title": "Candidato a Sorpresa",
+        "genre": "Commedia",
+        "year": "2012",
+        "Duration": "1h 25m",
+        "score": 3
+    },
+    {
+        "id": 87,
+        "poster": "Il Promontorio Della Paura.jpg",
+        "trailer": "twK-bFuM20U",
+        "title": "Il Promontorio Della Paura",
+        "genre": "Giallo, Thriller",
+        "year": "1991",
+        "Duration": "2h 8m",
+        "score": 4
+    },
+    {
+        "id": 88,
+        "poster": "Captain Phillips.jpg",
+        "trailer": "Y5k4kTAj9wo",
+        "title": "Captain Phillips",
+        "genre": "Azione, Thriller",
+        "year": "2013",
+        "Duration": "2h 14m",
+        "score": 4
+    },
+    {
+        "id": 89,
+        "poster": "Carbone - La truffa del secolo.jpg",
+        "trailer": "IJ4stEZyLjE",
+        "title": "Carbone - La truffa del secolo",
+        "genre": " Giallo, Thriller",
+        "year": "2017",
+        "Duration": "1h 44m",
+        "score": 2
+    },
+    {
+        "id": 90,
+        "poster": "Carlito's Way.jpg",
+        "trailer": "cp3DTnfSTR8",
+        "title": "Carlito's Way",
+        "genre": "Giallo, Drammatico",
+        "year": "1993",
+        "Duration": "2h 24m",
+        "score": 5
+    },
+    {
+        "id": 91,
+        "poster": "Carnage.jpg",
+        "trailer": "JPPID8DQAME",
+        "title": "Carnage",
+        "genre": "Drammatico, Commedia",
+        "year": "2011",
+        "Duration": "1h 20m",
+        "score": 5
+    },
+    {
+        "id": 92,
+        "poster": "Casinò.jpg",
+        "trailer": "DU_ummLGbSM",
+        "title": "Casinò",
+        "genre": "Giallo, Drammatico",
+        "year": "1995",
+        "Duration": "2h 58m",
+        "score": 5
+    },
+    {
+        "id": 93,
+        "poster": "Cattive Acque.jpg",
+        "trailer": "wyoOqYCoXjE",
+        "title": "Cattive Acque",
+        "genre": " Drammatico, Thriller",
+        "year": "2019",
+        "Duration": "2h 6m",
+        "score": 4
+    },
+    {
+        "id": 94,
+        "poster": "Cattivi vicini 2.jpg",
+        "trailer": "Np8OwHjc4rA",
+        "title": "Cattivi vicini 2",
+        "genre": "Commedia",
+        "year": "2016",
+        "Duration": "1h 32m",
+        "score": 3
+    },
+    {
+        "id": 95,
+        "poster": "Cena con delitto.jpg",
+        "trailer": "YejFxic6W4Q",
+        "title": "Cena con delitto",
+        "genre": "Film di mistero, Giallo",
+        "year": "2019",
+        "Duration": "2h 10m",
+        "score": 4
+    },
+    {
+        "id": 96,
+        "poster": "Centurion.jpg",
+        "trailer": "vT4UXRrD1sE",
+        "title": "Centurion",
+        "genre": "Guerra, Azione",
+        "year": "2010",
+        "Duration": "1h 37m",
+        "score": 3
+    },
+    {
+        "id": 97,
+        "poster": "Changeling.jpg",
+        "trailer": "DvkYkpQ0XCo",
+        "title": "Changeling",
+        "genre": "Drammatico",
+        "year": "2008",
+        "Duration": "2h 21m",
+        "score": 4
+    },
+    {
+        "id": 98,
+        "poster": "Chi è senza colpa - The Drop.jpg",
+        "trailer": "4aSILAHnDTQ",
+        "title": "Chi è senza colpa - The Drop",
+        "genre": "Drammatico, Giallo",
+        "year": "2014",
+        "Duration": "1h 46m",
+        "score": 3
+    },
+    {
+        "id": 99,
+        "poster": "Child 44 - Il Bambino N.44.jpg",
+        "trailer": "L8DUlHORY18",
+        "title": "Child 44 - Il Bambino N.44",
+        "genre": "Thriller",
+        "year": "2015",
+        "Duration": "2h 17m",
+        "score": 4
+    },
+    {
+        "id": 100,
+        "poster": "Chinatown.jpg",
+        "trailer": "FDxS-UVKBxQ",
+        "title": "Chinatown",
+        "genre": "Drammatico",
+        "year": "1974",
+        "Duration": "2h 11m",
+        "score": 5
+    },
+    {
+        "id": 101,
+        "poster": "City of God - La città di Dio.jpg",
+        "trailer": "5ayUgFtZsgw",
+        "title": "City of God - La città di Dio",
+        "genre": " Giallo, Drammatico",
+        "year": "2002",
+        "Duration": "2h 10m",
+        "score": 4
+    },
+    {
+        "id": 102,
+        "poster": "Cocaine - La Vera Storia Di White Boy Rick.jpg",
+        "trailer": "QOzJMxUtmoE",
+        "title": "Cocaine - La Vera Storia Di White Boy Rick",
+        "genre": "Giallo, Drammatico",
+        "year": "2018",
+        "Duration": "1h 56m",
+        "score": 3
+    },
+    {
+        "id": 103,
+        "poster": "Coco.jpg",
+        "trailer": "ro2mnwYOp50",
+        "title": "Coco",
+        "genre": "Avventura, Animazione",
+        "year": "2017",
+        "Duration": "1h 45m",
+        "score": 3
+    },
+    {
+        "id": 104,
+        "poster": "Codice 999.jpg",
+        "trailer": "fT15PCqQ-qo",
+        "title": "Codice 999",
+        "genre": "Azione, Thriller",
+        "year": "2016",
+        "Duration": "1h 55m",
+        "score": 3
+    },
+    {
+        "id": 105,
+        "poster": "Cogan Killing Them Softly.jpg",
+        "trailer": "iC0JOvmi-Xo",
+        "title": "Cogan Killing Them Softly",
+        "genre": "Giallo, Drammatico",
+        "year": "2012",
+        "Duration": "1h 37m",
+        "score": 3
+    },
+    {
+        "id": 106,
+        "poster": "Collateral.jpg",
+        "trailer": "GwlJfxUkVBE",
+        "title": "Collateral",
+        "genre": "Thriller, Azione",
+        "year": "2004",
+        "Duration": "2h",
+        "score": 4
+    },
+    {
+        "id": 107,
+        "poster": "Collateral Beauty.jpg",
+        "trailer": "txpiskjwD5M",
+        "title": "Collateral Beauty",
+        "genre": "Drammatico, Romantico",
+        "year": "2016",
+        "Duration": "1h 37m",
+        "score": 3
+    },
+    {
+        "id": 108,
+        "poster": "Coma.jpg",
+        "trailer": "3MHY_7HVRks",
+        "title": "Coma",
+        "genre": "Azione, Sci-fi",
+        "year": "2019",
+        "Duration": "1h 51m",
+        "score": 3
+    },
+    {
+        "id": 109,
+        "poster": "Come vivo ora.jpg",
+        "trailer": "RSaxm68PPT4",
+        "title": "Come vivo ora",
+        "genre": "Drammatico, Guerra",
+        "year": "2013",
+        "Duration": "1h 41m",
+        "score": 3
+    },
+    {
+        "id": 110,
+        "poster": "Conan il barbaro.jpg",
+        "trailer": "nMyVsbhNYOc",
+        "title": "Conan il barbaro",
+        "genre": "Azione, Avventura",
+        "year": "1982",
+        "Duration": "2h 9m",
+        "score": 4
+    },
+    {
+        "id": 111,
+        "poster": "Constantine.jpg",
+        "trailer": "QpsQKvVPK5U",
+        "title": "Constantine",
+        "genre": "Fantastico, Horror",
+        "year": "2005",
+        "Duration": "2h 1m",
+        "score": 3
+    },
+    {
+        "id": 112,
+        "poster": "Contact.jpg",
+        "trailer": "p7rPYeLxbTs",
+        "title": "Contact",
+        "genre": "Sci-fi",
+        "year": "1997",
+        "Duration": "2h 30m",
+        "score": 3
+    },
+    {
+        "id": 113,
+        "poster": "Contagion.jpg",
+        "trailer": "_hi8iRR9NFY",
+        "title": "Contagion",
+        "genre": "Drammatico, Thriller",
+        "year": "2011",
+        "Duration": "1h 46m",
+        "score": 3
+    },
+    {
+        "id": 114,
+        "poster": "Continuavano a chiamarlo Trinità.jpg",
+        "trailer": "5VPyqoe74Ic",
+        "title": "Continuavano a chiamarlo Trinità",
+        "genre": "Western, Commedia",
+        "year": "1971",
+        "Duration": "1h 57m",
+        "score": 3
+    },
+    {
+        "id": 115,
+        "poster": "Copycat.jpg",
+        "trailer": "7RaBcFSABEM",
+        "title": "Copycat",
+        "genre": "Thriller",
+        "year": "1995",
+        "Duration": "2h 3m",
+        "score": 4
+    },
+    {
+        "id": 116,
+        "poster": "Corsa a Witch Mountain.jpg",
+        "trailer": "0X1eACdRpy0",
+        "title": "Corsa a Witch Mountain",
+        "genre": "Sci-fi",
+        "year": "2009",
+        "Duration": "1h 38m",
+        "score": 3
+    },
+    {
+        "id": 117,
+        "poster": "Così è la vita.jpg",
+        "trailer": "4UNprG04LJk",
+        "title": "Così è la vita",
+        "genre": "Commedia, Avventura",
+        "year": "1998",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 118,
+        "poster": "Crawl - Intrappolati.jpg",
+        "trailer": "JhddpNf7vGs",
+        "title": "Crawl - Intrappolati",
+        "genre": "Horror, Avventura",
+        "year": "2019",
+        "Duration": "1h 27m",
+        "score": 3
+    },
+    {
+        "id": 119,
+        "poster": "Crazy stupid love.jpg",
+        "trailer": "lz8Vb-vlik8",
+        "title": "Crazy stupid love",
+        "genre": "Romantico, Commedia",
+        "year": "2011",
+        "Duration": "1h 58m",
+        "score": 4
+    },
+    {
+        "id": 120,
+        "poster": "Cube - Il Cubo.jpg",
+        "trailer": "XG_8_YBbwTc",
+        "title": "Cube - Il Cubo",
+        "genre": "Sci-fi, Horror",
+        "year": "1997",
+        "Duration": "1h 30m",
+        "score": 4
+    },
+    {
+        "id": 121,
+        "poster": "DEAD MAN.jpg",
+        "trailer": "vaYWdBbhuxs",
+        "title": "DEAD MAN",
+        "genre": "Western, Drammatico",
+        "year": "1995",
+        "Duration": "2h 1m",
+        "score": 4
+    },
+    {
+        "id": 122,
+        "poster": "Dallas Buyers Club.jpg",
+        "trailer": "ByP6hZ7eC04",
+        "title": "Dallas Buyers Club",
+        "genre": "Drammatico",
+        "year": "2013",
+        "Duration": "1h 57m",
+        "score": 4
+    },
+    {
+        "id": 123,
+        "poster": "Deadpool.jpg",
+        "trailer": "oTnWIrWrKiw",
+        "title": "Deadpool",
+        "genre": "Azione, Avventura",
+        "year": "2016",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 124,
+        "poster": "Deadpool 2.jpg",
+        "trailer": "-ppVHWO5gu8",
+        "title": "Deadpool 2",
+        "genre": "Azione, Avventura",
+        "year": "2018",
+        "Duration": "2h",
+        "score": 3
+    },
+    {
+        "id": 125,
+        "poster": "Deep Impact.jpg",
+        "trailer": "mxBsxMA6SJk",
+        "title": "Deep Impact",
+        "genre": "Sci-fi, Drammatico",
+        "year": "1998",
+        "Duration": "2h",
+        "score": 3
+    },
+    {
+        "id": 126,
+        "poster": "Deepwater - Inferno sull'oceano.jpg",
+        "trailer": "rctIjtUbsQs",
+        "title": "Deepwater - Inferno sull'oceano",
+        "genre": "Thriller, Azione",
+        "year": "2016",
+        "Duration": "1h 47m",
+        "score": 4
+    },
+    {
+        "id": 127,
+        "poster": "Diamanti Grezzi.jpg",
+        "trailer": "O4vfTFhWn3Q",
+        "title": "Diamanti Grezzi",
+        "genre": "Giallo",
+        "year": "2019",
+        "Duration": "2h 15m",
+        "score": 3
+    },
+    {
+        "id": 128,
+        "poster": "Die Hard - Trappola Di Cristallo.jpg",
+        "trailer": "1EhDBpYQVUA",
+        "title": "Die Hard - Trappola Di Cristallo",
+        "genre": "Azione, Thriller",
+        "year": "1988",
+        "Duration": "2h 12m",
+        "score": 4
+    },
+    {
+        "id": 129,
+        "poster": "District 9.jpg",
+        "trailer": "hJqx-pMqCiQ",
+        "title": "District 9",
+        "genre": "Sci-fi",
+        "year": "2009",
+        "Duration": "1h 52m",
+        "score": 4
+    },
+    {
+        "id": 130,
+        "poster": "Django Unchained.jpg",
+        "trailer": "uALPPuJcnGQ",
+        "title": "Django Unchained",
+        "genre": "Western, Drammatico",
+        "year": "2012",
+        "Duration": "2h 45m",
+        "score": 4
+    },
+    {
+        "id": 131,
+        "poster": "Dogman.jpg",
+        "trailer": "eum93mpzpE0",
+        "title": "Dogman",
+        "genre": "Drammatico, Giallo",
+        "year": "2018",
+        "Duration": "1h 43m",
+        "score": 4
+    },
+    {
+        "id": 132,
+        "poster": "Dolittle.jpg",
+        "trailer": "0QMAh3LRuC0",
+        "title": "Dolittle",
+        "genre": "Avventura, Fantastico",
+        "year": "2020",
+        "Duration": "1h 41m",
+        "score": 3
+    },
+    {
+        "id": 133,
+        "poster": "Doppia Pelle.jpg",
+        "trailer": "XYj3N9XPGNQ",
+        "title": "Doppia Pelle",
+        "genre": "Commedia, Horror",
+        "year": "2019",
+        "Duration": "1h 17m",
+        "score": 4
+    },
+    {
+        "id": 134,
+        "poster": "Dorian Gray.jpg",
+        "trailer": "UJGwjK4fJ5Q",
+        "title": "Dorian Gray",
+        "genre": "Horror, Thriller",
+        "year": "2009",
+        "Duration": "1h 52m",
+        "score": 3
+    },
+    {
+        "id": 135,
+        "poster": "Dove La Terra Trema.jpg",
+        "trailer": "VijCiA1_rYI",
+        "title": "Dove La Terra Trema",
+        "genre": "Romantico, Thriller",
+        "year": "2019",
+        "Duration": "1h 47m",
+        "score": 3
+    },
+    {
+        "id": 136,
+        "poster": "Downfall - La Caduta.jpg",
+        "trailer": "6Hb_kpHC7cs",
+        "title": "Downfall - La Caduta",
+        "genre": "Guerra, Drammatico",
+        "year": "2004",
+        "Duration": "2h 36m",
+        "score": 4
+    },
+    {
+        "id": 137,
+        "poster": "Downhill.jpg",
+        "trailer": "pBa9lELOOoo",
+        "title": "Downhill",
+        "genre": "Drammatico, Commedia",
+        "year": "2020",
+        "Duration": "1h 26",
+        "score": 3
+    },
+    {
+        "id": 138,
+        "poster": "Downsizing - Vivere alla Grande.jpg",
+        "trailer": "Xy0L6m-af74",
+        "title": "Downsizing - Vivere alla Grande",
+        "genre": "Sci-fi, Commedia",
+        "year": "2017",
+        "Duration": "2h 15m",
+        "score": 3
+    },
+    {
+        "id": 139,
+        "poster": "Dracula Untold.jpg",
+        "trailer": "vAls809q4Eo",
+        "title": "Dracula Untold",
+        "genre": "Horror, Fantastico",
+        "year": "2014",
+        "Duration": "1h 32m",
+        "score": 3
+    },
+    {
+        "id": 140,
+        "poster": "Dragon Blade - La battaglia degli Imperi.jpg",
+        "trailer": "wMy4sWTdTCs",
+        "title": "Dragon Blade - La battaglia degli Imperi",
+        "genre": "Azione, Avventura",
+        "year": "2015",
+        "Duration": "2h 7m",
+        "score": 3
+    },
+    {
+        "id": 141,
+        "poster": "Dream House.jpg",
+        "trailer": "w1gXdBnRqnQ",
+        "title": "Dream House",
+        "genre": "Thriller, mistero",
+        "year": "2011",
+        "Duration": "1h 32m",
+        "score": 3
+    },
+    {
+        "id": 142,
+        "poster": "Dreamland.jpg",
+        "trailer": "n3wj_aBDHcQ",
+        "title": "Dreamland",
+        "genre": "Drammatico, Thriller",
+        "year": "2019",
+        "Duration": "1h 41m",
+        "score": 3
+    },
+    {
+        "id": 143,
+        "poster": "Dredd - Il giudice dell'apocalisse.jpg",
+        "trailer": "RzTO3mf9-xw",
+        "title": "Dredd - Il giudice dell'apocalisse",
+        "genre": "Azione, Sci-fi",
+        "year": "2012",
+        "Duration": "1h 36",
+        "score": 3
+    },
+    {
+        "id": 144,
+        "poster": "Drive.jpg",
+        "trailer": "FWniGytawoQ",
+        "title": "Drive",
+        "genre": "Azione, Giallo",
+        "year": "2011",
+        "Duration": "1h 40m",
+        "score": 4
+    },
+    {
+        "id": 145,
+        "poster": "Dune (1984).jpg",
+        "trailer": "yT7PMxOhtAY",
+        "title": "Dune",
+        "genre": "Sci-fi, Avventura",
+        "year": "1984",
+        "Duration": "2h 17m",
+        "score": 4
+    },
+    {
+        "id": 146,
+        "poster": "Dune.jpg",
+        "trailer": "tVbbaQDN5zs",
+        "title": "Dune",
+        "genre": "Sci-fi, Avventura",
+        "year": "2021",
+        "Duration": "2h 35m",
+        "score": 4
+    },
+    {
+        "id": 147,
+        "poster": "Dunkirk.jpg",
+        "trailer": "gYQ1d3Rgo5w",
+        "title": "Dunkirk",
+        "genre": "Guerra, Azione",
+        "year": "2017",
+        "Duration": "1h 46m",
+        "score": 4
+    },
+    {
+        "id": 148,
+        "poster": "Duri Si Diventa.jpg",
+        "trailer": "8mHueZt_hto",
+        "title": "Duri Si Diventa",
+        "genre": "Commedia",
+        "year": "2015",
+        "Duration": "1h 47m",
+        "score": 3
+    },
+    {
+        "id": 149,
+        "poster": "Echi Mortali.jpg",
+        "trailer": "N335PcZq-ns",
+        "title": "Echi Mortali",
+        "genre": "Thriller, Horror",
+        "year": "1999",
+        "Duration": "1h 39m",
+        "score": 4
+    },
+    {
+        "id": 150,
+        "poster": "Edge Of Tomorrow - Senza Domani.jpg",
+        "trailer": "gCLmq4j9KOw",
+        "title": "Edge Of Tomorrow - Senza Domani",
+        "genre": "Sci-fi, Azione",
+        "year": "2014",
+        "Duration": "1h 53m",
+        "score": 4
+    },
+    {
+        "id": 151,
+        "poster": "Edward mani di forbice.jpg",
+        "trailer": "Sfms-I4cETs",
+        "title": "Edward mani di forbice",
+        "genre": "Fantastico, Romantico",
+        "year": "1990",
+        "Duration": "1h 45m",
+        "score": 4
+    },
+    {
+        "id": 152,
+        "poster": "Effetti Collaterali.jpg",
+        "trailer": "my4U94IdfbE",
+        "title": "Effetti Collaterali",
+        "genre": "Thriller, Drammatico",
+        "year": "2013",
+        "Duration": "1h 46m",
+        "score": 3
+    },
+    {
+        "id": 153,
+        "poster": "Eiffel.jpg",
+        "trailer": "J_-G223lh44",
+        "title": "Eiffel",
+        "genre": "Romantico, Drammatico",
+        "year": "2021",
+        "Duration": "1h 55m",
+        "score": 3
+    },
+    {
+        "id": 154,
+        "poster": "Elizabeth - The Golden Age.jpg",
+        "trailer": "vDlNmIZ-7DM",
+        "title": "Elizabeth - The Golden Age",
+        "genre": "Drammatico, Storico",
+        "year": "2007",
+        "Duration": "1h 54m",
+        "score": 4
+    },
+    {
+        "id": 155,
+        "poster": "Elysium.jpg",
+        "trailer": "48CveOxpw20",
+        "title": "Elysium",
+        "genre": "Sci-fi, Azione",
+        "year": "2013",
+        "Duration": "1h 49m",
+        "score": 4
+    },
+    {
+        "id": 156,
+        "poster": "End of Justice - Nessuno è innocente.jpg",
+        "trailer": "DAJOxr3TjHM",
+        "title": "End of Justice - Nessuno è innocente",
+        "genre": "Drammatico, Giallo",
+        "year": "2017",
+        "Duration": "2h 9m",
+        "score": 4
+    },
+    {
+        "id": 157,
+        "poster": "Equalizer.jpg",
+        "trailer": "36UfGL9qVy8",
+        "title": "Equalizer",
+        "genre": "Azione, Thriller",
+        "year": "2014",
+        "Duration": "2h 12m",
+        "score": 3
+    },
+    {
+        "id": 158,
+        "poster": "Essere John Malkovich.jpg",
+        "trailer": "Ca7Thjcfc0M",
+        "title": "Essere John Malkovich",
+        "genre": "Commedia, Fantastico",
+        "year": "1999",
+        "Duration": "1h 52m",
+        "score": 4
+    },
+    {
+        "id": 159,
+        "poster": "Estraneo a Bordo.jpg",
+        "trailer": "JsmX4kZuH7E",
+        "title": "Estraneo a Bordo",
+        "genre": "Sci-fi, Thriller",
+        "year": "2021",
+        "Duration": "1h 56m",
+        "score": 3
+    },
+    {
+        "id": 160,
+        "poster": "Punto Di Non Ritorno.jpg",
+        "trailer": "zhR5cXD0i9c",
+        "title": "Punto Di Non Ritorno",
+        "genre": "Horror, Sci-fi",
+        "year": "1997",
+        "Duration": "1h 36m",
+        "score": 4
+    },
+    {
+        "id": 161,
+        "poster": "Everest.jpg",
+        "trailer": "9pw4J-BJ0tM",
+        "title": "Everest",
+        "genre": "Avventura, Drammatico",
+        "year": "2015",
+        "Duration": "2h 1m",
+        "score": 3
+    },
+    {
+        "id": 162,
+        "poster": "Ex Machina.jpg",
+        "trailer": "zg23CSUm1qk",
+        "title": "Ex Machina",
+        "genre": "Sci-fi, Thriller",
+        "year": "2014",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 163,
+        "poster": "Exodus - Dei e Re.jpg",
+        "trailer": "1LTFCJbjabc",
+        "title": "Exodus - Dei e Re",
+        "genre": "Avventura, Drammatico",
+        "year": "2014",
+        "Duration": "2h 30m",
+        "score": 4
+    },
+    {
+        "id": 164,
+        "poster": "Fantozzi.jpg",
+        "trailer": "qZgnjPTl4ss",
+        "title": "Fantozzi",
+        "genre": "Commedia",
+        "year": "1975",
+        "Duration": "1h 40m",
+        "score": 4
+    },
+    {
+        "id": 165,
+        "poster": "Faster.jpg",
+        "trailer": "8hRZaTZeKoQ",
+        "title": "Faster",
+        "genre": "Azione, Thriller",
+        "year": "2010",
+        "Duration": "1h 38m",
+        "score": 4
+    },
+    {
+        "id": 166,
+        "poster": "Febbre Da Cavallo (1976).jpg",
+        "trailer": "qr3NUrixdm4",
+        "title": "Febbre Da Cavallo",
+        "genre": "Commedia",
+        "year": "1976",
+        "Duration": "1h 40m",
+        "score": 4
+    },
+    {
+        "id": 167,
+        "poster": "Fight Club.jpg",
+        "trailer": "ZhkXr2kf1x0",
+        "title": "Fight Club",
+        "genre": "Drammatico, Thriller",
+        "year": "1999",
+        "Duration": "2h 19m",
+        "score": 4
+    },
+    {
+        "id": 168,
+        "poster": "Finch.jpg",
+        "trailer": "3DmD1JvsXQo",
+        "title": "Finch",
+        "genre": "Sci-fi, Drammatico",
+        "year": "2021",
+        "Duration": "1h 55m",
+        "score": 3
+    },
+    {
+        "id": 169,
+        "poster": "Fino All'Ultimo Indizio.jpg",
+        "trailer": "52lmCLbUv0Y",
+        "title": "Fino All'Ultimo Indizio",
+        "genre": "Thriller, Giallo",
+        "year": "2021",
+        "Duration": "2h 8m",
+        "score": 3
+    },
+    {
+        "id": 170,
+        "poster": "First Man - Il primo uomo.jpg",
+        "trailer": "froFJdUPrNE",
+        "title": "First Man - Il primo uomo",
+        "genre": "Drammatico, Storico",
+        "year": "2018",
+        "Duration": "2h 21m",
+        "score": 3
+    },
+    {
+        "id": 171,
+        "poster": "Flight.jpg",
+        "trailer": "Y8ivKl4N1w0",
+        "title": "Flight",
+        "genre": "Drammatico, Thriller",
+        "year": "2012",
+        "Duration": "2h 18m",
+        "score": 4
+    },
+    {
+        "id": 172,
+        "poster": "Flightplan Mistero In Volo.jpg",
+        "trailer": "YzzUYHnwFeA",
+        "title": "Flightplan Mistero In Volo",
+        "genre": "Thriller",
+        "year": "2005",
+        "Duration": "1h 38m",
+        "score": 3
+    },
+    {
+        "id": 173,
+        "poster": "Forrest Gump.jpg",
+        "trailer": "-r80MA5Gb_I",
+        "title": "Forrest Gump",
+        "genre": "Romantico, Drammatico",
+        "year": "1994",
+        "Duration": "2h 22m",
+        "score": 5
+    },
+    {
+        "id": 174,
+        "poster": "Frankenstein Junior.jpg",
+        "trailer": "6uvu2uXWUiE",
+        "title": "Frankenstein Junior",
+        "genre": "Horror, Commedia",
+        "year": "1974",
+        "Duration": "1h 46m",
+        "score": 4
+    },
+    {
+        "id": 175,
+        "poster": "Frankenweenie.jpg",
+        "trailer": "oZ_7ibdX43s",
+        "title": "Frankenweenie",
+        "genre": "Horror, Commedia",
+        "year": "2012",
+        "Duration": "1h 27m",
+        "score": 3
+    },
+    {
+        "id": 176,
+        "poster": "Fratellastri A 40 Anni.jpg",
+        "trailer": "sT4k5fH0wU8",
+        "title": "Fratellastri A 40 Anni",
+        "genre": "Commedia",
+        "year": "2008",
+        "Duration": "1h 38m",
+        "score": 3
+    },
+    {
+        "id": 177,
+        "poster": "Frozen.jpg",
+        "trailer": "uTVHa8DRKJA",
+        "title": "Frozen",
+        "genre": "Horror, Thriller",
+        "year": "2010",
+        "Duration": "1h 33m",
+        "score": 3
+    },
+    {
+        "id": 178,
+        "poster": "Gattaca - La porta dell'universo.jpg",
+        "trailer": "Qawg0FxUklQ",
+        "title": "Gattaca - La porta dell'universo",
+        "genre": "Sci-fi, Drammatico",
+        "year": "1997",
+        "Duration": "1h 46m",
+        "score": 4
+    },
+    {
+        "id": 179,
+        "poster": "Gemini Man.jpg",
+        "trailer": "QIlIpw73KDo",
+        "title": "Gemini Man",
+        "genre": "Azione",
+        "year": "2019",
+        "Duration": "1h 57m",
+        "score": 3
+    },
+    {
+        "id": 180,
+        "poster": "Geostorm.jpg",
+        "trailer": "hna-Fea9_ws",
+        "title": "Geostorm",
+        "genre": "Sci-fi, Azione",
+        "year": "2017",
+        "Duration": "1h 49m",
+        "score": 3
+    },
+    {
+        "id": 181,
+        "poster": "Ghost Stories (2017).jpg",
+        "trailer": "TnePVhGnifQ",
+        "title": "Ghost Stories",
+        "genre": "Horror, Drammatico",
+        "year": "2017",
+        "Duration": "1h 38m",
+        "score": 3
+    },
+    {
+        "id": 182,
+        "poster": "Ghost in the Shell.jpg",
+        "trailer": "JzyNXV_-Df4",
+        "title": "Ghost in the Shell",
+        "genre": "Sci-fi, Azione",
+        "year": "2017",
+        "Duration": "- min.",
+        "score": 3
+    },
+    {
+        "id": 183,
+        "poster": "Ghostbusters (1984).jpg",
+        "trailer": "w9rA3qR-L2w",
+        "title": "Ghostbusters",
+        "genre": "Commedia, Fantastico",
+        "year": "1984",
+        "Duration": "1h 45m",
+        "score": 4
+    },
+    {
+        "id": 184,
+        "poster": "Giustizia Privata.jpg",
+        "trailer": "vk3Xi3EZ1BY",
+        "title": "Giustizia Privata",
+        "genre": "Thriller, Giallo",
+        "year": "2009",
+        "Duration": "1h 49m",
+        "score": 3
+    },
+    {
+        "id": 185,
+        "poster": "Gli Incredibili 2.jpg",
+        "trailer": "1N-a6ZJqw94",
+        "title": "Gli Incredibili 2",
+        "genre": "Animazione, Avventura",
+        "year": "2018",
+        "Duration": "2h 6m",
+        "score": 3
+    },
+    {
+        "id": 186,
+        "poster": "Gli Ultimi Fuorilegge.jpg",
+        "trailer": "x08gdUbmbrw",
+        "title": "Gli Ultimi Fuorilegge",
+        "genre": "Western, Drammatico",
+        "year": "2019",
+        "Duration": "1h 40m",
+        "score": 3
+    },
+    {
+        "id": 187,
+        "poster": "Gli intoccabili.jpg",
+        "trailer": "jszu6sGiDTA",
+        "title": "Gli intoccabili",
+        "genre": "Giallo, Drammatico",
+        "year": "1987",
+        "Duration": "1h 59m",
+        "score": 4
+    },
+    {
+        "id": 188,
+        "poster": "Gli spietati - Unforgiven.jpg",
+        "trailer": "Elu4kMMAEK0",
+        "title": "Gli spietati - Unforgiven",
+        "genre": "Western, Drammatico",
+        "year": "1992",
+        "Duration": "2h 11m",
+        "score": 3
+    },
+    {
+        "id": 189,
+        "poster": "Gods Of Egypt.jpg",
+        "trailer": "Vv8JurFvuxk",
+        "title": "Gods Of Egypt",
+        "genre": "Fantastico, Avventura",
+        "year": "2016",
+        "Duration": "2h 6m",
+        "score": 3
+    },
+    {
+        "id": 190,
+        "poster": "Gone Girl - L'amore bugiardo.jpg",
+        "trailer": "Ax3ptN5ZtUw",
+        "title": "Gone Girl - L'amore bugiardo",
+        "genre": "Thriller",
+        "year": "2014",
+        "Duration": "2h 29m",
+        "score": 4
+    },
+    {
+        "id": 191,
+        "poster": "Goodfellas - Quei Bravi Ragazzi.jpg",
+        "trailer": "qGyc_9nGKmA",
+        "title": "Goodfellas - Quei Bravi Ragazzi",
+        "genre": "Giallo, Drammatico",
+        "year": "1990",
+        "Duration": "2h 26m",
+        "score": 5
+    },
+    {
+        "id": 192,
+        "poster": "Granchio Nero.jpg",
+        "trailer": "DgA2glH2Dd4",
+        "title": "Granchio Nero",
+        "genre": "Azione, Guerra",
+        "year": "2022",
+        "Duration": "1h 54m",
+        "score": 2
+    },
+    {
+        "id": 193,
+        "poster": "Grand Budapest Hotel.jpg",
+        "trailer": "6bdLeEEOEXA",
+        "title": "Grand Budapest Hotel",
+        "genre": "Commedia, Giallo",
+        "year": "2014",
+        "Duration": "1h 40m",
+        "score": 4
+    },
+    {
+        "id": 194,
+        "poster": "Grandi Magazzini.jpg",
+        "trailer": "KMf4QUyPzoo",
+        "title": "Grandi Magazzini",
+        "genre": "Commedia",
+        "year": "1986",
+        "Duration": "2h 26m",
+        "score": 3
+    },
+    {
+        "id": 195,
+        "poster": "Gravity.jpg",
+        "trailer": "Z2An9nmjOR8",
+        "title": "Gravity",
+        "genre": "Sci-fi, Thriller",
+        "year": "2013",
+        "Duration": "1h 31m",
+        "score": 3
+    },
+    {
+        "id": 196,
+        "poster": "Greenland.jpg",
+        "trailer": "03J4FXvTudE",
+        "title": "Greenland",
+        "genre": "Azione, Thriller",
+        "year": "2020",
+        "Duration": "1h 59m",
+        "score": 2
+    },
+    {
+        "id": 197,
+        "poster": "Hanna.jpg",
+        "trailer": "QRCImv-SyZc",
+        "title": "Hanna",
+        "genre": "Azione, Thriller",
+        "year": "2011",
+        "Duration": "1h 51m",
+        "score": 4
+    },
+    {
+        "id": 198,
+        "poster": "Hannibal Lecter - Le origini del male.jpg",
+        "trailer": "jTn4gqgr6dU",
+        "title": "Hannibal Lecter - Le origini del male",
+        "genre": "Thrillerm, Horror",
+        "year": "2007",
+        "Duration": "2h 11m",
+        "score": 3
+    },
+    {
+        "id": 199,
+        "poster": "Hercules Il guerriero.jpg",
+        "trailer": "8g0b-hJjfYg",
+        "title": "Hercules Il guerriero",
+        "genre": "Fantastico, Avventura",
+        "year": "2014",
+        "Duration": "1h 38m",
+        "score": 3
+    },
+    {
+        "id": 200,
+        "poster": "Hereditary - Le radici del male.jpg",
+        "trailer": "7s67m3DjTR8",
+        "title": "Hereditary - Le radici del male",
+        "genre": "Horror, Drammatico",
+        "year": "2018",
+        "Duration": "2h 7m",
+        "score": 3
+    },
+    {
+        "id": 201,
+        "poster": "Hold The Dark.jpg",
+        "trailer": "SNRVMMe5bx0",
+        "title": "Hold The Dark",
+        "genre": "Thriller, Avventura",
+        "year": "2018",
+        "Duration": "2h 5m",
+        "score": 2
+    },
+    {
+        "id": 202,
+        "poster": "Homefront.jpg",
+        "trailer": "GfUiq-Few2A",
+        "title": "Homefront",
+        "genre": "Azione, Thriller",
+        "year": "2013",
+        "Duration": "1h 40m",
+        "score": 3
+    },
+    {
+        "id": 203,
+        "poster": "Honey Boy.jpg",
+        "trailer": "mqnh4ovveCU",
+        "title": "Honey Boy",
+        "genre": "Drammatico",
+        "year": "2019",
+        "Duration": "1h 33m",
+        "score": 3
+    },
+    {
+        "id": 204,
+        "poster": "Humandroid.jpg",
+        "trailer": "Ly02_jcS8xY",
+        "title": "Humandroid",
+        "genre": "Sci-fi, Azione",
+        "year": "2015",
+        "Duration": "2h",
+        "score": 4
+    },
+    {
+        "id": 205,
+        "poster": "I Cacciatori Di Tesori - Un Oscuro Segreto.jpg",
+        "trailer": "ZjMgoa9m_iE",
+        "title": "I Cacciatori Di Tesori - Un Oscuro Segreto",
+        "genre": "Avventura, Fantastico",
+        "year": "2020",
+        "Duration": "1h 31m",
+        "score": 3
+    },
+    {
+        "id": 206,
+        "poster": "I Cacciatori Di Tesori - La Leggenda Perduta.jpg",
+        "trailer": "9Fl9ln2zn2o",
+        "title": "I Cacciatori Di Tesori - La Leggenda Perduta",
+        "genre": "Avventura, Fantastico",
+        "year": "2016",
+        "Duration": "2h 7m",
+        "score": 3
+    },
+    {
+        "id": 207,
+        "poster": "I Cacciatori di Tesori - L'isola Maledetta.jpg",
+        "trailer": "L5FYI2rt_Xs",
+        "title": "I Cacciatori di Tesori - L'isola Maledetta",
+        "genre": "Avventura, Fantastico",
+        "year": "2018",
+        "Duration": "1h 50m",
+        "score": 3
+    },
+    {
+        "id": 208,
+        "poster": "I Goonies.jpg",
+        "trailer": "pAz0V1gF3LU",
+        "title": "I Goonies",
+        "genre": "Avventura, Commedia",
+        "year": "1985",
+        "Duration": "1h 54m",
+        "score": 4
+    },
+    {
+        "id": 209,
+        "poster": "I Magnifici Sette.jpg",
+        "trailer": "X48RLg8z0Jk",
+        "title": "I Magnifici Sette",
+        "genre": "Western, Azione",
+        "year": "2016",
+        "Duration": "2h 12m",
+        "score": 3
+    },
+    {
+        "id": 210,
+        "poster": "I Quattro Dell'Ave Maria.jpg",
+        "trailer": "7bZwfpbs3IE",
+        "title": "I Quattro Dell'Ave Maria",
+        "genre": "Western, Commedia",
+        "year": "1968",
+        "Duration": "2h 17m",
+        "score": 4
+    },
+    {
+        "id": 211,
+        "poster": "I Soliti Sospetti.jpg",
+        "trailer": "-iVIUWcnltE",
+        "title": "I Soliti Sospetti",
+        "genre": "Thriller, Giallo",
+        "year": "1995",
+        "Duration": "1h 46m",
+        "score": 4
+    },
+    {
+        "id": 212,
+        "poster": "I Tonya.jpg",
+        "trailer": "R0t8wnD_O-I",
+        "title": "I Tonya",
+        "genre": "Commedia, Drammatico",
+        "year": "2018",
+        "Duration": "2h",
+        "score": 4
+    },
+    {
+        "id": 213,
+        "poster": "I guerrieri della notte.jpg",
+        "trailer": "TC_A_vc6zxo",
+        "title": "I guerrieri della notte",
+        "genre": "Azione",
+        "year": "1979",
+        "Duration": "1h 30m",
+        "score": 4
+    },
+    {
+        "id": 214,
+        "poster": "I racconti di Terramare.jpg",
+        "trailer": "dX-j_lrQvbk",
+        "title": "I racconti di Terramare",
+        "genre": "Animazione, Avventura",
+        "year": "2006",
+        "Duration": "1h 55m",
+        "score": 3
+    },
+    {
+        "id": 215,
+        "poster": "Identity - Identità.jpg",
+        "trailer": "1Wm1KGvjiwo",
+        "title": "Identity - Identità",
+        "genre": "Thriller, Giallo",
+        "year": "2003",
+        "Duration": "1h 31m",
+        "score": 3
+    },
+    {
+        "id": 216,
+        "poster": "Idiocracy.jpg",
+        "trailer": "n_yhQGL8Egw",
+        "title": "Idiocracy",
+        "genre": "Commedia, Sci-fi",
+        "year": "2006",
+        "Duration": "1h 24m",
+        "score": 3
+    },
+    {
+        "id": 217,
+        "poster": "Il Bacio della donna ragno.jpg",
+        "trailer": "xOwCVfMSOcA",
+        "title": "Il Bacio della donna ragno",
+        "genre": "Drammatico",
+        "year": "1985",
+        "Duration": "2h 4m",
+        "score": 4
+    },
+    {
+        "id": 218,
+        "poster": "Il Buono,Il Brutto,Il Cattivo.jpg",
+        "trailer": "WBXWxuOc2dE",
+        "title": "Il Buono,Il Brutto,Il Cattivo",
+        "genre": "Western, Azione",
+        "year": "1966",
+        "Duration": "2h 41m",
+        "score": 4
+    },
+    {
+        "id": 219,
+        "poster": "Il Cacciatore Di Donne.jpg",
+        "trailer": "Bn-gAgi1HB0",
+        "title": "Il Cacciatore Di Donne",
+        "genre": "Thriller, Giallo",
+        "year": "2013",
+        "Duration": "1h 45m",
+        "score": 3
+    },
+    {
+        "id": 220,
+        "poster": "Il Castello Errante di Howl.jpg",
+        "trailer": "FmPUVEh686w",
+        "title": "Il Castello Errante di Howl",
+        "genre": "Animazione, Avventura",
+        "year": "2004",
+        "Duration": "1h 59m",
+        "score": 5
+    },
+    {
+        "id": 221,
+        "poster": "Il Cavaliere Oscuro - Il Ritorno.jpg",
+        "trailer": "UwU4WpPRSvA",
+        "title": "Il Cavaliere Oscuro - Il Ritorno",
+        "genre": "Azione, Thriller",
+        "year": "2012",
+        "Duration": "2h 45m",
+        "score": 4
+    },
+    {
+        "id": 222,
+        "poster": "Il Cavaliere Oscuro - The Dark Knight.jpg",
+        "trailer": "yqcDBdk8wpo",
+        "title": "Il Cavaliere Oscuro - The Dark Knight",
+        "genre": "Azione, Avventura",
+        "year": "2008",
+        "Duration": "2h 32m",
+        "score": 4
+    },
+    {
+        "id": 223,
+        "poster": "Il Corvo - The Crow.jpg",
+        "trailer": "KOs4s4TBi6M",
+        "title": "Il Corvo - The Crow",
+        "genre": "Azione, Fantastico",
+        "year": "1994",
+        "Duration": "1h 42m",
+        "score": 4
+    },
+    {
+        "id": 224,
+        "poster": "Il Curioso Caso Di Benjamin Button.jpg",
+        "trailer": "Q7h8sBvc118",
+        "title": "Il Curioso Caso Di Benjamin Button",
+        "genre": "Romantico, Drammatico",
+        "year": "2008",
+        "Duration": "2h 46m",
+        "score": 4
+    },
+    {
+        "id": 225,
+        "poster": "Il Delitto Perfetto (1954).jpg",
+        "trailer": "8vW7d3hXDfU",
+        "title": "Il Delitto Perfetto",
+        "genre": "Thriller, Giallo",
+        "year": "1954",
+        "Duration": "1h 45m",
+        "score": 5
+    },
+    {
+        "id": 226,
+        "poster": "Il Diritto di Contare.jpg",
+        "trailer": "LrM27IHgrpI",
+        "title": "Il Diritto di Contare",
+        "genre": "Drammatico, Storico",
+        "year": "2016",
+        "Duration": "2h 7m",
+        "score": 4
+    },
+    {
+        "id": 227,
+        "poster": "Il Gladiatore.jpg",
+        "trailer": "axcaKnZh9ZY",
+        "title": "Il Gladiatore",
+        "genre": "Azione, Avventura",
+        "year": "2000",
+        "Duration": "2h 35m",
+        "score": 4
+    },
+    {
+        "id": 228,
+        "poster": "Il Grande Dittatore.jpg",
+        "trailer": "DtB7fKnL0WE",
+        "title": "Il Grande Dittatore",
+        "genre": "Commedia, Guerra",
+        "year": "1940",
+        "Duration": "2h 5m",
+        "score": 4
+    },
+    {
+        "id": 229,
+        "poster": "Il Grinta - True Grit.jpg",
+        "trailer": "7WQ3TyA2YD4",
+        "title": "Il Grinta - True Grit",
+        "genre": "Western, Drammatico",
+        "year": "2010",
+        "Duration": "1h 50m",
+        "score": 4
+    },
+    {
+        "id": 230,
+        "poster": "Il Lato Positivo - Silver Linings.jpg",
+        "trailer": "FBJrSWQlzZA",
+        "title": "Il Lato Positivo - Silver Linings",
+        "genre": "Romantico, Drammatico",
+        "year": "2012",
+        "Duration": "2h 2m",
+        "score": 3
+    },
+    {
+        "id": 231,
+        "poster": "Il Libro della Giungla.jpg",
+        "trailer": "0AfgyMwDyN0",
+        "title": "Il Libro della Giungla",
+        "genre": "Avventura, Fantastico",
+        "year": "2016",
+        "Duration": "1h 51m",
+        "score": 3
+    },
+    {
+        "id": 232,
+        "poster": "Il Marchese del Grillo.jpg",
+        "trailer": "0pjed6G--18",
+        "title": "Il Marchese del Grillo",
+        "genre": "Commedia, Storico",
+        "year": "1981",
+        "Duration": "2h 15m",
+        "score": 4
+    },
+    {
+        "id": 233,
+        "poster": "Il Medico Della Mutua.jpg",
+        "trailer": "e-IxjUNPSuc",
+        "title": "Il Medico Della Mutua",
+        "genre": "Commedia",
+        "year": "1968",
+        "Duration": "1h 38m",
+        "score": 3
+    },
+    {
+        "id": 234,
+        "poster": "Il Miglio Verde.jpg",
+        "trailer": "ahpcWXrP9p0",
+        "title": "Il Miglio Verde",
+        "genre": "Drammatico, Fantastico",
+        "year": "1999",
+        "Duration": "3h 9m",
+        "score": 5
+    },
+    {
+        "id": 235,
+        "poster": "Il Mondo Dei Replicanti.jpg",
+        "trailer": "07wFtNjOCmc",
+        "title": "Il Mondo Dei Replicanti",
+        "genre": "Sci-fi, Azione",
+        "year": "2009",
+        "Duration": "1h 29m",
+        "score": 3
+    },
+    {
+        "id": 236,
+        "poster": "Il Nastro Bianco.jpg",
+        "trailer": "t3cxphrnsik",
+        "title": "Il Nastro Bianco",
+        "genre": "Drammatico, Guerra",
+        "year": "2009",
+        "Duration": "2h 24m",
+        "score": 3
+    },
+    {
+        "id": 237,
+        "poster": "Il Paziente Inglese.jpg",
+        "trailer": "hvc5ejluvl8",
+        "title": "Il Paziente Inglese",
+        "genre": "Romantico, Drammatico",
+        "year": "1996",
+        "Duration": "2h 42m",
+        "score": 4
+    },
+    {
+        "id": 238,
+        "poster": "Il Ponte Delle Spie.jpg",
+        "trailer": "8JICEhUw9C0",
+        "title": "Il Ponte Delle Spie",
+        "genre": "Thriller, Drammatico",
+        "year": "2015",
+        "Duration": "2h 22m",
+        "score": 3
+    },
+    {
+        "id": 239,
+        "poster": "Il Quinto Elemento.jpg",
+        "trailer": "2RyEKTOB0jo",
+        "title": "Il Quinto Elemento",
+        "genre": "Sci-fi, Azione",
+        "year": "1997",
+        "Duration": "2h 6m",
+        "score": 3
+    },
+    {
+        "id": 240,
+        "poster": "Il Quinto Potere.jpg",
+        "trailer": "ygaOl5TvsYk",
+        "title": "Il Quinto Potere",
+        "genre": "Thriller, Drammatico",
+        "year": "2013",
+        "Duration": "2h 8m",
+        "score": 2
+    },
+    {
+        "id": 241,
+        "poster": "Il Re Leone.jpg",
+        "trailer": "btc1U16MEQ8",
+        "title": "Il Re Leone",
+        "genre": "Animazione, Avventura",
+        "year": "1994",
+        "Duration": "1h 27m",
+        "score": 3
+    },
+    {
+        "id": 242,
+        "poster": "Il Re Leone II.jpg",
+        "trailer": "EtlPJlopQDE",
+        "title": "Il Re Leone II",
+        "genre": "Animazione, Avventura",
+        "year": "1998",
+        "Duration": " 1h 21m",
+        "score": 3
+    },
+    {
+        "id": 243,
+        "poster": "Il Ribelle - Starred Up.jpg",
+        "trailer": "CXmPuTrrSTg",
+        "title": "Il Ribelle - Starred Up",
+        "genre": "Drammatico, Giallo",
+        "year": "2013",
+        "Duration": "1h 46m",
+        "score": 4
+    },
+    {
+        "id": 244,
+        "poster": "Il Sacrificio Del Cervo Sacro.jpg",
+        "trailer": "IoNbhWmgJyA",
+        "title": "Il Sacrificio Del Cervo Sacro",
+        "genre": "Thriller, Horror",
+        "year": "2017",
+        "Duration": "2h 1m",
+        "score": 3
+    },
+    {
+        "id": 245,
+        "poster": "Il Secondo tragico Fantozzi.jpg",
+        "trailer": "oxGG34fPvJY",
+        "title": "Il Secondo tragico Fantozzi",
+        "genre": "Commedia",
+        "year": "1976",
+        "Duration": "1h 50m",
+        "score": 4
+    },
+    {
+        "id": 246,
+        "poster": "Il Settimo figlio - Seventh Son.jpg",
+        "trailer": "sxZnfArv1Bg",
+        "title": "Il Settimo figlio - Seventh Son",
+        "genre": "Fantastico, Avventura",
+        "year": "2014",
+        "Duration": "1h 42m",
+        "score": 2
+    },
+    {
+        "id": 247,
+        "poster": "Il Vento Si Alza.jpg",
+        "trailer": "wknMIrb79eE",
+        "title": "Il Vento Si Alza",
+        "genre": "Romantico, Animazione",
+        "year": "2013",
+        "Duration": "2h 6m",
+        "score": 4
+    },
+    {
+        "id": 248,
+        "poster": "Il buco - El hoyo.jpg",
+        "trailer": "oQ17YhKLzJU",
+        "title": "Il buco - El hoyo",
+        "genre": "Thriller, Horror",
+        "year": "2019",
+        "Duration": "1h 34m",
+        "score": 4
+    },
+    {
+        "id": 249,
+        "poster": "Il collezionista di ossa.jpg",
+        "trailer": "j0sEH_gHmKY",
+        "title": "Il collezionista di ossa",
+        "genre": "Thriller, Giallo",
+        "year": "1999",
+        "Duration": "1h 58m",
+        "score": 4
+    },
+    {
+        "id": 250,
+        "poster": "Il giorno sbagliato.jpg",
+        "trailer": "IDvApawIRuw",
+        "title": "Il giorno sbagliato",
+        "genre": "Thriller",
+        "year": "2020",
+        "Duration": "1h 30m",
+        "score": 3
+    },
+    {
+        "id": 251,
+        "poster": "Il mio nome è nessuno.jpg",
+        "trailer": "ItWiQMR_WRY",
+        "title": "Il mio nome è nessuno",
+        "genre": "Western, Commedia",
+        "year": "1973",
+        "Duration": "1h 52m",
+        "score": 4
+    },
+    {
+        "id": 252,
+        "poster": "Il mio vicino Totoro.jpg",
+        "trailer": "kgaqt9iBHGc",
+        "title": "Il mio vicino Totoro",
+        "genre": "Fantastico, Animazione",
+        "year": "1988",
+        "Duration": "1h 26m",
+        "score": 4
+    },
+    {
+        "id": 253,
+        "poster": "Il mistero della casa del tempo.jpg",
+        "trailer": "m_SHJoirxkI",
+        "title": "Il mistero della casa del tempo",
+        "genre": "Fantastico, Commedia",
+        "year": "2018",
+        "Duration": "1h 45m",
+        "score": 3
+    },
+    {
+        "id": 254,
+        "poster": "Il sapore del successo.jpg",
+        "trailer": "UoOYr-5Hd74",
+        "title": "Il sapore del successo",
+        "genre": "Drammatico, Commedia",
+        "year": "2015",
+        "Duration": "1h 41m",
+        "score": 3
+    },
+    {
+        "id": 255,
+        "poster": "Il seme della follia (1994).jpg",
+        "trailer": "VixHsirgQw0",
+        "title": "Il seme della follia",
+        "genre": "Horror, Fantastico",
+        "year": "1994",
+        "Duration": "1h 35m",
+        "score": 4
+    },
+    {
+        "id": 256,
+        "poster": "Il signore degli anelli - La compagnia dell'anello.jpg",
+        "trailer": "Oiz8siG8OXA",
+        "title": "Il signore degli anelli - La compagnia dell'anello",
+        "genre": "Fantastico, Avventura",
+        "year": "2001",
+        "Duration": "2h 58m",
+        "score": 4
+    },
+    {
+        "id": 257,
+        "poster": "Il silenzio degli innocenti.jpg",
+        "trailer": "ERIcXORL4UU",
+        "title": "Il silenzio degli innocenti",
+        "genre": "Thriller, Horror",
+        "year": "1991",
+        "Duration": "1h 58m",
+        "score": 5
+    },
+    {
+        "id": 258,
+        "poster": "Immortals.jpg",
+        "trailer": "VM4rW8oVtek",
+        "title": "Immortals",
+        "genre": "Fantastico, Azione",
+        "year": "2011",
+        "Duration": "1h 50m",
+        "score": 3
+    },
+    {
+        "id": 259,
+        "poster": "In Time.jpg",
+        "trailer": "4D3rfKEBxuA",
+        "title": "In Time",
+        "genre": "Sci-fi, Azione",
+        "year": "2011",
+        "Duration": "1h 49m",
+        "score": 3
+    },
+    {
+        "id": 260,
+        "poster": "Independence Day Rigenerazione.jpg",
+        "trailer": "UGJfSXQN1E4",
+        "title": "Independence Day Rigenerazione",
+        "genre": "Sci-fi, Azione",
+        "year": "2016",
+        "Duration": "2h",
+        "score": 2
+    },
+    {
+        "id": 261,
+        "poster": "Indiana Jones e i Predatori dell'Arca Perduta.jpg",
+        "trailer": "LgqTrI57y6k",
+        "title": "Indiana Jones e i Predatori dell'Arca Perduta",
+        "genre": "Avventura, Azione",
+        "year": "1981",
+        "Duration": "1h 55m",
+        "score": 4
+    },
+    {
+        "id": 262,
+        "poster": "Inside Man.jpg",
+        "trailer": "bhaXNbJdyBs",
+        "title": "Inside Man",
+        "genre": "Thriller, Giallo",
+        "year": "2006",
+        "Duration": "2h 9m",
+        "score": 4
+    },
+    {
+        "id": 263,
+        "poster": "Inside Out.jpg",
+        "trailer": "pI1PY1dxdYs",
+        "title": "Inside Out",
+        "genre": "Animazione, Commedia",
+        "year": "2015",
+        "Duration": "1h 35m",
+        "score": 4
+    },
+    {
+        "id": 264,
+        "poster": "Interceptor - Il guerriero della strada.jpg",
+        "trailer": "UPLQrqWvA-8",
+        "title": "Interceptor - Il guerriero della strada",
+        "genre": "Azione, Sci-fi",
+        "year": "1981",
+        "Duration": "1h 35m",
+        "score": 4
+    },
+    {
+        "id": 265,
+        "poster": "Interceptor - Mad Max.jpg",
+        "trailer": "Hr9R5J5tK9Q",
+        "title": "Interceptor - Mad Max",
+        "genre": "Azione, Sci-fi",
+        "year": "1979",
+        "Duration": "1h 33m",
+        "score": 3
+    },
+    {
+        "id": 266,
+        "poster": "Interstellar.jpg",
+        "trailer": "EIVMVIr3q3Y",
+        "title": "Interstellar",
+        "genre": "Sci-fi, Avventura",
+        "year": "2014",
+        "Duration": "2h 49m",
+        "score": 4
+    },
+    {
+        "id": 267,
+        "poster": "Io Sono Tu.jpg",
+        "trailer": "ewfS1CQ0j28",
+        "title": "Io Sono Tu",
+        "genre": "Commedia, Giallo",
+        "year": "2013",
+        "Duration": "1h 51m",
+        "score": 3
+    },
+    {
+        "id": 268,
+        "poster": "Io sono leggenda.jpg",
+        "trailer": "hZWisUMHtcI",
+        "title": "Io sono leggenda",
+        "genre": "Sci-fi, Horror",
+        "year": "2007",
+        "Duration": "1h 41m",
+        "score": 3
+    },
+    {
+        "id": 269,
+        "poster": "Io,Robot.jpg",
+        "trailer": "fHicwMXR-Zw",
+        "title": "Io,Robot",
+        "genre": "Sci-fi, Azione",
+        "year": "2004",
+        "Duration": "1h 55m",
+        "score": 3
+    },
+    {
+        "id": 270,
+        "poster": "Ip Man.jpg",
+        "trailer": "9SsU9AiCoHo",
+        "title": "Ip Man",
+        "genre": "Azione, Drammatico",
+        "year": "2008",
+        "Duration": "1h 46m",
+        "score": 4
+    },
+    {
+        "id": 271,
+        "poster": "Ip Man 2.jpg",
+        "trailer": "fTYUJrdyV60",
+        "title": "Ip Man 2",
+        "genre": "Azione, Drammatico",
+        "year": "2010",
+        "Duration": "1h 48m",
+        "score": 4
+    },
+    {
+        "id": 272,
+        "poster": "Ip Man 3.jpg",
+        "trailer": "_i2wX_gGF_Q",
+        "title": "Ip Man 3",
+        "genre": "Azione, Drammatico",
+        "year": "2015",
+        "Duration": "1h 45m",
+        "score": 4
+    },
+    {
+        "id": 273,
+        "poster": "Ip Man 4.jpg",
+        "trailer": "s6_-tZyK1X8",
+        "title": "Ip Man 4",
+        "genre": "Azione, Drammatico",
+        "year": "2019",
+        "Duration": "1h 45m",
+        "score": 4
+    },
+    {
+        "id": 274,
+        "poster": "Jackie Brown.jpg",
+        "trailer": "2hixPjLoapU",
+        "title": "Jackie Brown",
+        "genre": "Giallo, Drammatico",
+        "year": "1997",
+        "Duration": "2h 34m",
+        "score": 4
+    },
+    {
+        "id": 275,
+        "poster": "Jane Eyre.jpg",
+        "trailer": "4fHSbTkD0SE",
+        "title": "Jane Eyre",
+        "genre": "Romantico, Drammatico",
+        "year": "2011",
+        "Duration": "2h",
+        "score": 4
+    },
+    {
+        "id": 276,
+        "poster": "John Carter.jpg",
+        "trailer": "SoatAvuTz5g",
+        "title": "John Carter",
+        "genre": "Sci-fi, Azione",
+        "year": "2012",
+        "Duration": "2h 12m",
+        "score": 4
+    },
+    {
+        "id": 277,
+        "poster": "John Wick.jpg",
+        "trailer": "N_ZPL3hmFEo",
+        "title": "John Wick",
+        "genre": "Azione, Thriller",
+        "year": "2014",
+        "Duration": "1h 41m",
+        "score": 4
+    },
+    {
+        "id": 278,
+        "poster": "John Q.jpg",
+        "trailer": "ZfKOws6iHt0",
+        "title": "John Q",
+        "genre": "Drammatico, Thriller",
+        "year": "2002",
+        "Duration": "1h 56m",
+        "score": 3
+    },
+    {
+        "id": 279,
+        "poster": "John Wick 2.jpg",
+        "trailer": "puoCudROYi0",
+        "title": "John Wick 2",
+        "genre": " Azione, Thriller",
+        "year": "2017",
+        "Duration": "2h 2m",
+        "score": 4
+    },
+    {
+        "id": 280,
+        "poster": "Jojo Rabbit.jpg",
+        "trailer": "wUApRBgiHN8",
+        "title": "Jojo Rabbit",
+        "genre": "Guerra, Drammatico",
+        "year": "2019",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 281,
+        "poster": "Joker.jpg",
+        "trailer": "o7nkJDjuSp4",
+        "title": "Joker",
+        "genre": "Thriller, Giallo",
+        "year": "2019",
+        "Duration": "2h 2m",
+        "score": 4
+    },
+    {
+        "id": 282,
+        "poster": "Jurassic World.jpg",
+        "trailer": "Mgv1X7DOqK0",
+        "title": "Jurassic World",
+        "genre": "Sci-fi, Azione",
+        "year": "2015",
+        "Duration": "2h 4m",
+        "score": 3
+    },
+    {
+        "id": 283,
+        "poster": "Jurassic World - Il Regno distrutto.jpg",
+        "trailer": "d9s6TPrFzr8",
+        "title": "Jurassic World - Il Regno distrutto",
+        "genre": "Azione, Avventura",
+        "year": "2018",
+        "Duration": "2h 9m",
+        "score": 3
+    },
+    {
+        "id": 284,
+        "poster": "Kill Bill - Volume 2.jpg",
+        "trailer": "rULsvfSi1iE",
+        "title": "Kill Bill - Volume 2",
+        "genre": "Azione",
+        "year": "2004",
+        "Duration": "2h 17m",
+        "score": 4
+    },
+    {
+        "id": 285,
+        "poster": "Kill Bill - Volume 1.jpg",
+        "trailer": "CgjkMKhEIRo",
+        "title": "Kill Bill - Volume 1",
+        "genre": "Azione, Giallo",
+        "year": "2003",
+        "Duration": "1h 51m",
+        "score": 4
+    },
+    {
+        "id": 286,
+        "poster": "Killer Elite.jpg",
+        "trailer": "cm5VusYmOv8",
+        "title": "Killer Elite",
+        "genre": "Azione, Thriller",
+        "year": "2011",
+        "Duration": "2h",
+        "score": 3
+    },
+    {
+        "id": 287,
+        "poster": "King Arthur - Il potere della spada.jpg",
+        "trailer": "ZYBvXedsehw",
+        "title": "King Arthur - Il potere della spada",
+        "genre": "Fantastico, Drammatico",
+        "year": "2017",
+        "Duration": "2h 6m",
+        "score": 3
+    },
+    {
+        "id": 288,
+        "poster": "Kingsman Secret Service.jpg",
+        "trailer": "qJ0rDbbkjZc",
+        "title": "Kingsman Secret Service",
+        "genre": "Azione, Avventura",
+        "year": "2014",
+        "Duration": "2h 10m",
+        "score": 3
+    },
+    {
+        "id": 289,
+        "poster": "Kiss Of The Dragon.jpg",
+        "trailer": "WKzWrLVoMmQ",
+        "title": "Kiss Of The Dragon",
+        "genre": "Azione, Thriller",
+        "year": "2001",
+        "Duration": "1h 40m",
+        "score": 4
+    },
+    {
+        "id": 290,
+        "poster": "Kong - Skull Island.jpg",
+        "trailer": "DFKf6sq32Cg",
+        "title": "Kong - Skull Island",
+        "genre": "Avventura, Azione",
+        "year": "2017",
+        "Duration": "2h",
+        "score": 3
+    },
+    {
+        "id": 291,
+        "poster": "L'attimo fuggente.jpg",
+        "trailer": "VcD1DQb3kuM",
+        "title": "L'attimo fuggente",
+        "genre": "Drammatico",
+        "year": "1989",
+        "Duration": "2h 8m",
+        "score": 4
+    },
+    {
+        "id": 292,
+        "poster": "L'era glaciale 2.jpg",
+        "trailer": "cSG_MKAmzlw",
+        "title": "L'era glaciale 2",
+        "genre": "Animazione, Avventura",
+        "year": "2006",
+        "Duration": "1h 31m",
+        "score": 4
+    },
+    {
+        "id": 293,
+        "poster": "L'ultimo dei Templari.jpg",
+        "trailer": "YO80nMcKyps",
+        "title": "L'ultimo dei Templari",
+        "genre": "Fantastico, Avventura",
+        "year": "2011",
+        "Duration": "1h 35m",
+        "score": 3
+    },
+    {
+        "id": 294,
+        "poster": "L'ultimo dominatore dell aria.jpg",
+        "trailer": "oxPc4lC2PJo",
+        "title": "L'ultimo dominatore dell aria",
+        "genre": "Fantastico, Avventura",
+        "year": "2010",
+        "Duration": "1h 43m",
+        "score": 3
+    },
+    {
+        "id": 295,
+        "poster": "L'Apparenza Delle Cose.jpg",
+        "trailer": "mon3obUwmJ0",
+        "title": "L'Apparenza Delle Cose",
+        "genre": "Horror, Thriller",
+        "year": "2021",
+        "Duration": "2h 1m",
+        "score": 3
+    },
+    {
+        "id": 296,
+        "poster": "L'Uomo Dei Ghiacci.jpg",
+        "trailer": "qV5x1jsOMd8",
+        "title": "L'Uomo Dei Ghiacci",
+        "genre": "Azione, Thriller",
+        "year": "2021",
+        "Duration": "1h 43m",
+        "score": 3
+    },
+    {
+        "id": 297,
+        "poster": "L'Uomo Nel Buio.jpg",
+        "trailer": "ZoCFiMJTpjM",
+        "title": "L'Uomo Nel Buio",
+        "genre": "Horror, Thriller",
+        "year": "2021",
+        "Duration": "1h 39m",
+        "score": 3
+    },
+    {
+        "id": 298,
+        "poster": "L'amore non va in vacanza.jpg",
+        "trailer": "wZqxi_kGu-Q",
+        "title": "L'amore non va in vacanza",
+        "genre": "Romantico, Commedia",
+        "year": "2006",
+        "Duration": "2h 18m",
+        "score": 4
+    },
+    {
+        "id": 299,
+        "poster": "L'esercito Delle 12 Scimmie.jpg",
+        "trailer": "wQJPbllsujY",
+        "title": "L'esercito Delle 12 Scimmie",
+        "genre": "Sci-fi, Thriller",
+        "year": "1995",
+        "Duration": "2h 9m",
+        "score": 4
+    },
+    {
+        "id": 300,
+        "poster": "L'intrigo Della Collana.jpg",
+        "trailer": "orbNp0iMl0c",
+        "title": "L'intrigo Della Collana",
+        "genre": "Drammatico, Romantico",
+        "year": "2001",
+        "Duration": "1h 58m",
+        "score": 3
+    },
+    {
+        "id": 301,
+        "poster": "L'ultima discesa.jpg",
+        "trailer": "o6aFiEUttSk",
+        "title": "L'ultima discesa",
+        "genre": "Avventura, Drammatico",
+        "year": "2017",
+        "Duration": "1h 38m",
+        "score": 3
+    },
+    {
+        "id": 302,
+        "poster": "L'uomo Senza Sonno.jpg",
+        "trailer": "NPLFxOmTvV0",
+        "title": "L'uomo Senza Sonno",
+        "genre": "Thriller, Drammatico",
+        "year": "2004",
+        "Duration": "1h 41m",
+        "score": 4
+    },
+    {
+        "id": 303,
+        "poster": "L'uomo invisibile.jpg",
+        "trailer": "2CbSOo8fmas",
+        "title": "L'uomo invisibile",
+        "genre": "Horror, Thriller",
+        "year": "2020",
+        "Duration": "2h 5m",
+        "score": 3
+    },
+    {
+        "id": 304,
+        "poster": "L'uomo sul treno.jpg",
+        "trailer": "y2-c3Sav4yA",
+        "title": "L'uomo sul treno",
+        "genre": "Azione, Thriller",
+        "year": "2018",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 305,
+        "poster": "La Caccia dei Lupi.jpg",
+        "trailer": "946IGbOMn3w",
+        "title": "La Caccia dei Lupi",
+        "genre": "Thriller",
+        "year": "2021",
+        "Duration": "1h 29m",
+        "score": 1
+    },
+    {
+        "id": 306,
+        "poster": "La Casa Del Diavolo.jpg",
+        "trailer": "36Cj_wjj_g0",
+        "title": "La Casa Del Diavolo",
+        "genre": "Horror, Thriller",
+        "year": "2005",
+        "Duration": "1h 49m",
+        "score": 3
+    },
+    {
+        "id": 307,
+        "poster": "La Città Incantata.jpg",
+        "trailer": "XuYQKqn65-M",
+        "title": "La Città Incantata",
+        "genre": "Animazione, Avventura",
+        "year": "2001",
+        "Duration": "2h 5m",
+        "score": 5
+    },
+    {
+        "id": 308,
+        "poster": "La Cura Dal Benessere.jpg",
+        "trailer": "RKnJR2_Ke2s",
+        "title": "La Cura Dal Benessere",
+        "genre": "Horror, Drammatico",
+        "year": "2016",
+        "Duration": "2h 26m",
+        "score": 3
+    },
+    {
+        "id": 309,
+        "poster": "La Donna Alla Finestra.jpg",
+        "trailer": "BEVkDRUSW60",
+        "title": "La Donna Alla Finestra",
+        "genre": "Thriller, Giallo",
+        "year": "2021",
+        "Duration": "1h 40m",
+        "score": 3
+    },
+    {
+        "id": 310,
+        "poster": "La Furia dei Titani.jpg",
+        "trailer": "k5nijUzBVx8",
+        "title": "La Furia dei Titani",
+        "genre": "Fantastico, Azione",
+        "year": "2012",
+        "Duration": "1h 40m",
+        "score": 3
+    },
+    {
+        "id": 311,
+        "poster": "La Grande Guerra (1959).jpg",
+        "trailer": "zFLlQfxrtBk",
+        "title": "La Grande Guerra",
+        "genre": "Guerra, Drammatico",
+        "year": "1959",
+        "Duration": "2h 17m",
+        "score": 4
+    },
+    {
+        "id": 312,
+        "poster": "La Morte Ti Fa Bella.jpg",
+        "trailer": "lgpwV9mOHUY",
+        "title": "La Morte Ti Fa Bella",
+        "genre": "Fantastico, Commedia",
+        "year": "1992",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 313,
+        "poster": "La Nona Porta.jpg",
+        "trailer": "cS44YABg_XE",
+        "title": "La Nona Porta",
+        "genre": "Thriller, Drammatico",
+        "year": "1999",
+        "Duration": "2h 13m",
+        "score": 3
+    },
+    {
+        "id": 314,
+        "poster": "La Papessa.jpg",
+        "trailer": "r-P8flPoLaA",
+        "title": "La Papessa",
+        "genre": "Drammatico, Romantico",
+        "year": "2009",
+        "Duration": "2h 29m",
+        "score": 4
+    },
+    {
+        "id": 315,
+        "poster": "La Promessa - The Pledge.jpg",
+        "trailer": "50MaNpihKAU",
+        "title": "La Promessa - The Pledge",
+        "genre": "Thriller, Giallo",
+        "year": "2001",
+        "Duration": "2h 4m",
+        "score": 3
+    },
+    {
+        "id": 316,
+        "poster": "La Regola Del Silenzio.jpg",
+        "trailer": "o0c6a4Oh9yM",
+        "title": "La Regola Del Silenzio",
+        "genre": "Thriller, Giallo",
+        "year": "2012",
+        "Duration": "2h 5m",
+        "score": 3
+    },
+    {
+        "id": 317,
+        "poster": "La Settima Musa.jpg",
+        "trailer": "LuNYQ0lGghk",
+        "title": "La Settima Musa",
+        "genre": "Horror, Thriller",
+        "year": "2017",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 318,
+        "poster": "La collina dei Papaveri.jpg",
+        "trailer": "Z3KOa5kpgJc",
+        "title": "La collina dei Papaveri",
+        "genre": "Animazione, Romantico",
+        "year": "2011",
+        "Duration": "1h 31m",
+        "score": 4
+    },
+    {
+        "id": 319,
+        "poster": "La fabbrica di cioccolato.jpg",
+        "trailer": "2CA9C3QDkEo",
+        "title": "La fabbrica di cioccolato",
+        "genre": "Fantastico, Avventura",
+        "year": "2005",
+        "Duration": "1h 46m",
+        "score": 3
+    },
+    {
+        "id": 320,
+        "poster": "La febbre dell'oro.jpg",
+        "trailer": "_VRcC7rSPjo",
+        "title": "La febbre dell'oro",
+        "genre": "Commedia, Avventura",
+        "year": "1925",
+        "Duration": "1h 36m",
+        "score": 4
+    },
+    {
+        "id": 321,
+        "poster": "La finestra sul cortile (1954).jpg",
+        "trailer": "ajQKDXuC2g8",
+        "title": "La finestra sul cortile",
+        "genre": "Thriller, Giallo",
+        "year": "1954",
+        "Duration": "1h 52m",
+        "score": 5
+    },
+    {
+        "id": 322,
+        "poster": "La furia di un uomo.jpg",
+        "trailer": "h1Cikl1hoCs",
+        "title": "La furia di un uomo",
+        "genre": "Azione, Thriller",
+        "year": "2021",
+        "Duration": "1h 58m",
+        "score": 4
+    },
+    {
+        "id": 323,
+        "poster": "La grande scommessa.jpg",
+        "trailer": "WuZPWxMWmdk",
+        "title": "La grande scommessa",
+        "genre": "Drammatico, Commedia",
+        "year": "2015",
+        "Duration": "2h 10m",
+        "score": 4
+    },
+    {
+        "id": 324,
+        "poster": "La guerra dei Roses.jpg",
+        "trailer": "TXiPnZsJDEw",
+        "title": "La guerra dei Roses",
+        "genre": "Commedia",
+        "year": "1989",
+        "Duration": "1h 56m",
+        "score": 4
+    },
+    {
+        "id": 325,
+        "poster": "La guerra di domani.jpg",
+        "trailer": "iQ1KNBIeA5E",
+        "title": "La guerra di domani",
+        "genre": "Azione, Sci-fi",
+        "year": "2021",
+        "Duration": "2h 20m",
+        "score": 2
+    },
+    {
+        "id": 326,
+        "poster": "La leggenda del pianista sull'oceano.jpg",
+        "trailer": "1xE2X7c9kho",
+        "title": "La leggenda del pianista sull'oceano",
+        "genre": "Drammatico, Romantico",
+        "year": "1998",
+        "Duration": "2h 50m",
+        "score": 4
+    },
+    {
+        "id": 327,
+        "poster": "La leggenda di Bagger Vance.jpg",
+        "trailer": "YfuLf41HcuI",
+        "title": "La leggenda di Bagger Vance",
+        "genre": "Sportivo, Drammatico",
+        "year": "2000",
+        "Duration": "2h 6m",
+        "score": 4
+    },
+    {
+        "id": 328,
+        "poster": "La luce sugli oceani.jpg",
+        "trailer": "pXIYZyCPz6A",
+        "title": "La luce sugli oceani",
+        "genre": "Romantico, Drammatico",
+        "year": "2016",
+        "Duration": "2h 13m",
+        "score": 3
+    },
+    {
+        "id": 329,
+        "poster": "La mosca.jpg",
+        "trailer": "GX7yL_rA47Q",
+        "title": "La mosca",
+        "genre": "Horror, Sci-fi",
+        "year": "1986",
+        "Duration": "1h 36m",
+        "score": 4
+    },
+    {
+        "id": 330,
+        "poster": "La parola ai giurati.jpg",
+        "trailer": "KWlBRuw23js",
+        "title": "La parola ai giurati",
+        "genre": "Drammatico, Giallo",
+        "year": "1957",
+        "Duration": "1h 36m",
+        "score": 4
+    },
+    {
+        "id": 331,
+        "poster": "La principessa Mononoke.jpg",
+        "trailer": "sk1Hw7lt2Cc",
+        "title": "La principessa Mononoke",
+        "genre": "Animazione, Avventura",
+        "year": "1997",
+        "Duration": "2h 14m",
+        "score": 4
+    },
+    {
+        "id": 332,
+        "poster": "La truffa dei Logan.jpg",
+        "trailer": "KP3kXyOPxXk",
+        "title": "La truffa dei Logan",
+        "genre": "Commedia, Giallo",
+        "year": "2017",
+        "Duration": "1h 59m",
+        "score": 3
+    },
+    {
+        "id": 333,
+        "poster": "Laputa - Il castello nel cielo.jpg",
+        "trailer": "J357OoT10sM",
+        "title": "Laputa - Il castello nel cielo",
+        "genre": "Fantastico, Avventura",
+        "year": "1986",
+        "Duration": "2h 4m",
+        "score": 4
+    },
+    {
+        "id": 334,
+        "poster": "Le Ali Della Libertà.jpg",
+        "trailer": "xJx4wix61TE",
+        "title": "Le Ali Della Libertà",
+        "genre": "Drammatico, Giallo",
+        "year": "1994",
+        "Duration": "2h 22m",
+        "score": 4
+    },
+    {
+        "id": 335,
+        "poster": "Le Crociate.jpg",
+        "trailer": "NgbVOPOeZN8",
+        "title": "Le Crociate",
+        "genre": "Guerra, Avventura",
+        "year": "2005",
+        "Duration": "2h 24m",
+        "score": 3
+    },
+    {
+        "id": 336,
+        "poster": "Le Mans '66 - La Grande Sfida.jpg",
+        "trailer": "NMb4RNMvVV0",
+        "title": "Le Mans '66 - La Grande Sfida",
+        "genre": "Drammatico, Sportivo",
+        "year": "2019",
+        "Duration": "2h 32m",
+        "score": 4
+    },
+    {
+        "id": 337,
+        "poster": "Le Streghe Di Eastwick.jpg",
+        "trailer": "RI4MACBv7Q4",
+        "title": "Le Streghe Di Eastwick",
+        "genre": "Fantastico, Commedia",
+        "year": "1987",
+        "Duration": "1h 58m",
+        "score": 4
+    },
+    {
+        "id": 338,
+        "poster": "Le colline hanno gli occhi.jpg",
+        "trailer": "fobzzOCVsI4",
+        "title": "Le colline hanno gli occhi",
+        "genre": "Horror, Thriller",
+        "year": "2006",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 339,
+        "poster": "Le iene.jpg",
+        "trailer": "f7jXu8fK7UM",
+        "title": "Le iene",
+        "genre": "Giallo, Drammatico",
+        "year": "1992",
+        "Duration": "1h 39m",
+        "score": 5
+    },
+    {
+        "id": 340,
+        "poster": "Legend.jpg",
+        "trailer": "4MCWvzSIG54",
+        "title": "Legend",
+        "genre": "Giallo, Drammatico",
+        "year": "2015",
+        "Duration": "2h 11m",
+        "score": 3
+    },
+    {
+        "id": 341,
+        "poster": "Leon.jpg",
+        "trailer": "pb7F9eKzEt8",
+        "title": "Leon",
+        "genre": "Azione, Drammatico",
+        "year": "1994",
+        "Duration": "1h 50m",
+        "score": 4
+    },
+    {
+        "id": 342,
+        "poster": "Leviathan (1989).jpg",
+        "trailer": "q-VYEpz3XAE",
+        "title": "Leviathan",
+        "genre": "Sci-fi, Horror",
+        "year": "1989",
+        "Duration": "1h 38m",
+        "score": 3
+    },
+    {
+        "id": 343,
+        "poster": "Libera Uscita.jpg",
+        "trailer": "WbvQKA96gPw",
+        "title": "Libera Uscita",
+        "genre": "Commedia, Romantico",
+        "year": "2011",
+        "Duration": "1h 51m",
+        "score": 3
+    },
+    {
+        "id": 344,
+        "poster": "Limitless.jpg",
+        "trailer": "4ymPKRP4DOo",
+        "title": "Limitless",
+        "genre": "Thriller, Azione",
+        "year": "2011",
+        "Duration": "1h 45m",
+        "score": 4
+    },
+    {
+        "id": 345,
+        "poster": "Linea mortale (1990).jpg",
+        "trailer": "fkrHVTVXep4",
+        "title": "Linea mortale",
+        "genre": "Horror, Sci-fi",
+        "year": "1990",
+        "Duration": "1h 55m",
+        "score": 3
+    },
+    {
+        "id": 346,
+        "poster": "Little Joe.jpg",
+        "trailer": "pJP7Jewjibo",
+        "title": "Little Joe",
+        "genre": "Sci-fi, Drammatico",
+        "year": "2019",
+        "Duration": "1h 40m",
+        "score": 3
+    },
+    {
+        "id": 347,
+        "poster": "Lo Chiamavano Trinita (1970).jpg",
+        "trailer": "RSS1RHYwHTw",
+        "title": "Lo Chiamavano Trinita",
+        "genre": "Western, Commedia",
+        "year": "1970",
+        "Duration": "1h 55m",
+        "score": 4
+    },
+    {
+        "id": 348,
+        "poster": "Lo Hobbit - La Battaglia Delle Cinque Armate.jpg",
+        "trailer": "yDE_p_n1Do0",
+        "title": "Lo Hobbit - La Battaglia Delle Cinque Armate",
+        "genre": "Avventura, Fantastico",
+        "year": "2014",
+        "Duration": "2h 24m",
+        "score": 4
+    },
+    {
+        "id": 349,
+        "poster": "Lo Hobbit - La desolazione di Smaug.jpg",
+        "trailer": "BgZ0S3vPDcs",
+        "title": "Lo Hobbit - La desolazione di Smaug",
+        "genre": "Avventura, Fantastico",
+        "year": "2013",
+        "Duration": " 2h 41m",
+        "score": 4
+    },
+    {
+        "id": 350,
+        "poster": "Lo Hobbit - Un Viaggio Inaspettato.jpg",
+        "trailer": "C3_RqRPF-OY",
+        "title": "Lo Hobbit - Un Viaggio Inaspettato",
+        "genre": "Avventura, Fantastico",
+        "year": "2012",
+        "Duration": " 2h 49m",
+        "score": 4
+    },
+    {
+        "id": 351,
+        "poster": "Lo Sciacallo - Nightcrawler.jpg",
+        "trailer": "iYxBIwRT2jU",
+        "title": "Lo Sciacallo - Nightcrawler",
+        "genre": "Thriller, Giallo",
+        "year": "2014",
+        "Duration": "1h 57m",
+        "score": 4
+    },
+    {
+        "id": 352,
+        "poster": "Locked Down.jpg",
+        "trailer": "mG-ZFgXmYIY",
+        "title": "Locked Down",
+        "genre": "Giallo, Commedia",
+        "year": "2021",
+        "Duration": "1h 58m",
+        "score": 2
+    },
+    {
+        "id": 353,
+        "poster": "Lockout.jpg",
+        "trailer": "bERX3Qcksis",
+        "title": "Lockout",
+        "genre": "Azione, Sci-fi",
+        "year": "2012",
+        "Duration": "1h 35m",
+        "score": 3
+    },
+    {
+        "id": 354,
+        "poster": "Looper.jpg",
+        "trailer": "p-QOauLTD_0",
+        "title": "Looper",
+        "genre": "Sci-fi, Azione",
+        "year": "2012",
+        "Duration": "1h 59m",
+        "score": 3
+    },
+    {
+        "id": 355,
+        "poster": "Louis Van Beethoven.jpg",
+        "trailer": "wP9xPNwplkI",
+        "title": "Louis Van Beethoven",
+        "genre": "Drammatico, Storico",
+        "year": "2020",
+        "Duration": "2h",
+        "score": 3
+    },
+    {
+        "id": 356,
+        "poster": "Lucy.jpg",
+        "trailer": "viJsYmYOZgY",
+        "title": "Lucy",
+        "genre": "Azione, Thriller",
+        "year": "2014",
+        "Duration": "1h 30m",
+        "score": 3
+    },
+    {
+        "id": 357,
+        "poster": "Macbeth (2021).jpg",
+        "trailer": "PYx5Igy3Rmc",
+        "title": "Macbeth",
+        "genre": "Drammatico, Guerra",
+        "year": "2021",
+        "Duration": "1h 45m",
+        "score": 4
+    },
+    {
+        "id": 358,
+        "poster": "Macchine mortali.jpg",
+        "trailer": "Atw9-clK34Q",
+        "title": "Macchine mortali",
+        "genre": "Sci-fi, Azione",
+        "year": "2018",
+        "Duration": "2h 8m",
+        "score": 3
+    },
+    {
+        "id": 359,
+        "poster": "Mad Max - Fury Road.jpg",
+        "trailer": "gBZlfbCnUOE",
+        "title": "Mad Max - Fury Road",
+        "genre": "Azione, Avventura",
+        "year": "2015",
+        "Duration": "2h",
+        "score": 4
+    },
+    {
+        "id": 360,
+        "poster": "Mad Max - Oltre la sfera del tuono.jpg",
+        "trailer": "b0Y3Q_pNvrw",
+        "title": "Mad Max - Oltre la sfera del tuono",
+        "genre": "Azione, Sci-fi",
+        "year": "1985",
+        "Duration": "1h 47m",
+        "score": 4
+    },
+    {
+        "id": 361,
+        "poster": "Magnolia.jpg",
+        "trailer": "9WPKao4HsaA",
+        "title": "Magnolia",
+        "genre": "Drammatico",
+        "year": "1999",
+        "Duration": "3h 8m",
+        "score": 4
+    },
+    {
+        "id": 362,
+        "poster": "Maleficent.jpg",
+        "trailer": "2XI4ybpu2k0",
+        "title": "Maleficent",
+        "genre": "Fantastico, Avventura",
+        "year": "2014",
+        "Duration": "1h 58m",
+        "score": 3
+    },
+    {
+        "id": 363,
+        "poster": "Maleficent 2 - Signora del male.jpg",
+        "trailer": "G3VMtpK8jjo",
+        "title": "Maleficent 2 - Signora del male",
+        "genre": "Fantastico, Avventura",
+        "year": "2019",
+        "Duration": "1h 37m",
+        "score": 3
+    },
+    {
+        "id": 364,
+        "poster": "Malignant.jpg",
+        "trailer": "9mFCcwdsiw0",
+        "title": "Malignant",
+        "genre": "Thriller, Giallo",
+        "year": "2021",
+        "Duration": "1h 51m",
+        "score": 2
+    },
+    {
+        "id": 365,
+        "poster": "Man of Tai Chi.jpg",
+        "trailer": "k1a1rujMnbo",
+        "title": "Man of Tai Chi",
+        "genre": "Azione, Drammatico",
+        "year": "2013",
+        "Duration": "1h 46m",
+        "score": 3
+    },
+    {
+        "id": 366,
+        "poster": "Man on the Moon.jpg",
+        "trailer": "cvaHj0np8GM",
+        "title": "Man on the Moon",
+        "genre": "Drammatico, Commedia",
+        "year": "1999",
+        "Duration": "1h 58m",
+        "score": 4
+    },
+    {
+        "id": 367,
+        "poster": "Mank.jpg",
+        "trailer": "RihzDA9rXn0",
+        "title": "Mank",
+        "genre": "Drammatico, Commedia",
+        "year": "2020",
+        "Duration": "2h 11m",
+        "score": 4
+    },
+    {
+        "id": 368,
+        "poster": "Maps To The Stars.jpg",
+        "trailer": "d2PF_vxWtcM",
+        "title": "Maps To The Stars",
+        "genre": "Drammatico",
+        "year": "2014",
+        "Duration": "1h 51m",
+        "score": 3
+    },
+    {
+        "id": 369,
+        "poster": "Margin call.jpg",
+        "trailer": "aeVD222Hgyk",
+        "title": "Margin call",
+        "genre": "Drammatico, Thriller",
+        "year": "2011",
+        "Duration": "1h 47m",
+        "score": 3
+    },
+    {
+        "id": 370,
+        "poster": "Master Z - Ip Man Legacy.jpg",
+        "trailer": "NeYLbhrVBO4",
+        "title": "Master Z - Ip Man Legacy",
+        "genre": "Azione",
+        "year": "2018",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 371,
+        "poster": "Maze Runner - Il Labirinto.jpg",
+        "trailer": "OW79z3Za0HI",
+        "title": "Maze Runner - Il Labirinto",
+        "genre": "Sci-fi, Azione",
+        "year": "2014",
+        "Duration": "1h 53m",
+        "score": 3
+    },
+    {
+        "id": 372,
+        "poster": "Medicus.jpg",
+        "trailer": "lefBWBlhHKA",
+        "title": "Medicus",
+        "genre": "Drammatico, Avventura",
+        "year": "2013",
+        "Duration": "2h 30m",
+        "score": 4
+    },
+    {
+        "id": 373,
+        "poster": "Memento.jpg",
+        "trailer": "Kf9mns4Wz1w",
+        "title": "Memento",
+        "genre": "Giallo, Thriller",
+        "year": "2000",
+        "Duration": "1h 53m",
+        "score": 4
+    },
+    {
+        "id": 374,
+        "poster": "Mia Moglie Per Finta.jpg",
+        "trailer": "nD2GMf-MIXQ",
+        "title": "Mia Moglie Per Finta",
+        "genre": "Commedia, Romantico",
+        "year": "2011",
+        "Duration": "1h 57m",
+        "score": 3
+    },
+    {
+        "id": 375,
+        "poster": "Millennium - Uomini che odiano le donne.jpg",
+        "trailer": "MVXN9uTr8Wo",
+        "title": "Millennium - Uomini che odiano le donne",
+        "genre": "Thriller, Giallo",
+        "year": "2011",
+        "Duration": "2h 38m",
+        "score": 4
+    },
+    {
+        "id": 376,
+        "poster": "Minority Report.jpg",
+        "trailer": "he4oyvG0_Uk",
+        "title": "Minority Report",
+        "genre": "Sci-fi, Azione",
+        "year": "2002",
+        "Duration": "2h 26m",
+        "score": 4
+    },
+    {
+        "id": 377,
+        "poster": "Misery non deve morire.jpg",
+        "trailer": "SrQrZuCY7YI",
+        "title": "Misery non deve morire",
+        "genre": "Horror, Thriller",
+        "year": "1990",
+        "Duration": "1h 47m",
+        "score": 4
+    },
+    {
+        "id": 378,
+        "poster": "Miss Julie.jpg",
+        "trailer": "mxPzq0QgzUU",
+        "title": "Miss Julie",
+        "genre": "Drammatico, Romantico",
+        "year": "2014",
+        "Duration": "2h 10m",
+        "score": 3
+    },
+    {
+        "id": 379,
+        "poster": "Mission Impossible 4 - Protocollo Fantasma.jpg",
+        "trailer": "Hu34WjvM2E0",
+        "title": "Mission Impossible 4 - Protocollo Fantasma",
+        "genre": "Azione, Avventura",
+        "year": "2011",
+        "Duration": "2h 13m",
+        "score": 4
+    },
+    {
+        "id": 380,
+        "poster": "Mission Impossible 5 - Rogue Nation.jpg",
+        "trailer": "EWC9JZtMOWQ",
+        "title": "Mission Impossible 5 - Rogue Nation",
+        "genre": "Azione, Thriller",
+        "year": "2015",
+        "Duration": "2h 11m",
+        "score": 4
+    },
+    {
+        "id": 381,
+        "poster": "Mission Impossible 6 - Fallout.jpg",
+        "trailer": "_w65n1HtC3E",
+        "title": "Mission Impossible 6 - Fallout",
+        "genre": "Azione, Thriller",
+        "year": "2018",
+        "Duration": "2h 28m",
+        "score": 4
+    },
+    {
+        "id": 382,
+        "poster": "Missione Anthropoid - Anthropoid.jpg",
+        "trailer": "Aik91cEdFpE",
+        "title": "Missione Anthropoid - Anthropoid",
+        "genre": " Guerra, Thriller",
+        "year": "2016",
+        "Duration": "2h",
+        "score": 4
+    },
+    {
+        "id": 383,
+        "poster": "Money Monster - L'altra faccia del denaro.jpg",
+        "trailer": "2zK4Bt6zzy8",
+        "title": "Money Monster - L'altra faccia del denaro",
+        "genre": "Thriller, Drammatico",
+        "year": "2016",
+        "Duration": "1h 39m",
+        "score": 3
+    },
+    {
+        "id": 384,
+        "poster": "Mongol.jpg",
+        "trailer": "koBdQlRtvz4",
+        "title": "Mongol",
+        "genre": "Guerra, Avventura",
+        "year": "2007",
+        "Duration": "2h 6m",
+        "score": 4
+    },
+    {
+        "id": 385,
+        "poster": "Monster.jpg",
+        "trailer": "mBTTq2O1h_4",
+        "title": "Monster",
+        "genre": "Giallo, Drammatico",
+        "year": "2003",
+        "Duration": "1h 49m",
+        "score": 4
+    },
+    {
+        "id": 386,
+        "poster": "Monster Hunter.jpg",
+        "trailer": "jS-kYUqWKgE",
+        "title": "Monster Hunter",
+        "genre": "Azione, Fantastico",
+        "year": "2020",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 387,
+        "poster": "Monsters e Co..jpg",
+        "trailer": "rLrjWjJVuVI",
+        "title": "Monsters e Co.",
+        "genre": "Animazione, Avventura",
+        "year": "2001",
+        "Duration": "1h 32m",
+        "score": 4
+    },
+    {
+        "id": 388,
+        "poster": "Moon (2009).jpg",
+        "trailer": "8c3nWrCM2Xc",
+        "title": "Moon",
+        "genre": "Sci-fi, Drammatico",
+        "year": "2009",
+        "Duration": "1h 37m",
+        "score": 4
+    },
+    {
+        "id": 389,
+        "poster": "Moonfall.jpg",
+        "trailer": "lB2AkNGcHSU",
+        "title": "Moonfall",
+        "genre": "Sci-fi, Azione",
+        "year": "2022",
+        "Duration": "2h 10m",
+        "score": 2
+    },
+    {
+        "id": 390,
+        "poster": "Mowgli il figlio della giungla.jpg",
+        "trailer": "gmKJ_PBZ4uQ",
+        "title": "Mowgli il figlio della giungla",
+        "genre": "Avventura, Fantastico",
+        "year": "2018",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 391,
+        "poster": "Mystic River.jpg",
+        "trailer": "dWdDu1Zn4qQ",
+        "title": "Mystic River",
+        "genre": "Giallo, Drammatico",
+        "year": "2003",
+        "Duration": "2h 17m",
+        "score": 4
+    },
+    {
+        "id": 392,
+        "poster": "Nausicaa Della Valle Del Vento.jpg",
+        "trailer": "CM0_nW5d_Hc",
+        "title": "Nausicaa Della Valle Del Vento",
+        "genre": "Fantastico, Animazione",
+        "year": "1984",
+        "Duration": "1h 57m",
+        "score": 4
+    },
+    {
+        "id": 393,
+        "poster": "Nave fantasma (2002).jpg",
+        "trailer": "a7xNXTpQA5Q",
+        "title": "Nave fantasma",
+        "genre": "Horror",
+        "year": "2002",
+        "Duration": "1h 31m",
+        "score": 3
+    },
+    {
+        "id": 394,
+        "poster": "Navigator (1986).jpg",
+        "trailer": "NJ5CSJ4rxQc",
+        "title": "Navigator",
+        "genre": "Sci-fi, Avventura",
+        "year": "1986",
+        "Duration": "1h 30m",
+        "score": 3
+    },
+    {
+        "id": 395,
+        "poster": "Nel Nome Del Padre.jpg",
+        "trailer": "uitjM8tjjDU",
+        "title": "Nel Nome Del Padre",
+        "genre": "Drammatico, Thriller",
+        "year": "1993",
+        "Duration": "2h 13m",
+        "score": 4
+    },
+    {
+        "id": 396,
+        "poster": "Nella tana dei lupi.jpg",
+        "trailer": "ZGWxIbvaakw",
+        "title": "Nella tana dei lupi",
+        "genre": "Azione, Giallo",
+        "year": "2018",
+        "Duration": "2h 20m",
+        "score": 3
+    },
+    {
+        "id": 397,
+        "poster": "Neverland - Un Sogno Per La Vita.jpg",
+        "trailer": "XzDKN9Duef8",
+        "title": "Neverland - Un Sogno Per La Vita",
+        "genre": "Drammatico",
+        "year": "2004",
+        "Duration": "1h 41m",
+        "score": 3
+    },
+    {
+        "id": 398,
+        "poster": "Noah.jpg",
+        "trailer": "vD3Vj1ZX6Rk",
+        "title": "Noah",
+        "genre": "Avventura, Drammatico",
+        "year": "2014",
+        "Duration": "2h 18m",
+        "score": 3
+    },
+    {
+        "id": 399,
+        "poster": "Non E Un Paese Per Vecchi.jpg",
+        "trailer": "t5-4vC3hM1s",
+        "title": "Non E Un Paese Per Vecchi",
+        "genre": "Thriller, Giallo",
+        "year": "2007",
+        "Duration": "2h 2m",
+        "score": 4
+    },
+    {
+        "id": 400,
+        "poster": "Non Essere Cattivo.jpg",
+        "trailer": "IdpqEuIw8kA",
+        "title": "Non Essere Cattivo",
+        "genre": "Drammatico, Giallo",
+        "year": "2015",
+        "Duration": "1h 40m",
+        "score": 4
+    },
+    {
+        "id": 401,
+        "poster": "North Face - Una storia vera.jpg",
+        "trailer": "7lkEfgPsOa0",
+        "title": "North Face - Una storia vera",
+        "genre": "Avventura, Drammatico",
+        "year": "2008",
+        "Duration": "2h 6m",
+        "score": 3
+    },
+    {
+        "id": 402,
+        "poster": "NorthMen - A Viking Saga.jpg",
+        "trailer": "5HXHXGYeGBE",
+        "title": "NorthMen - A Viking Saga",
+        "genre": "Azione, Avventura",
+        "year": "2014",
+        "Duration": "1h 37m",
+        "score": 3
+    },
+    {
+        "id": 403,
+        "poster": "Oblivion.jpg",
+        "trailer": "feEyIRgiX2s",
+        "title": "Oblivion",
+        "genre": "Sci-fi, Azione",
+        "year": "2013",
+        "Duration": "2h 4m",
+        "score": 3
+    },
+    {
+        "id": 404,
+        "poster": "Oceania.jpg",
+        "trailer": "DZHkAx2qc-s",
+        "title": "Oceania",
+        "genre": "Animazione, Avventura",
+        "year": "2016",
+        "Duration": "1h 47m",
+        "score": 4
+    },
+    {
+        "id": 405,
+        "poster": "Old Boy (2003).jpg",
+        "trailer": "DMSEJhGXmSQ",
+        "title": "Old Boy",
+        "genre": "Azione, Drammatico",
+        "year": "2003",
+        "Duration": "2h",
+        "score": 4
+    },
+    {
+        "id": 406,
+        "poster": "Solo gli amanti sopravvivono.jpg",
+        "trailer": "BLunx-YbA1Q",
+        "title": "Solo gli amanti sopravvivono",
+        "genre": "Romantico, Horror",
+        "year": "2013",
+        "Duration": "2h 3m",
+        "score": 4
+    },
+    {
+        "id": 407,
+        "poster": "Operation Finale.jpg",
+        "trailer": "SWOYwcPEySE",
+        "title": "Operation Finale",
+        "genre": "Drammatico, Storico",
+        "year": "2018",
+        "Duration": "2h 2m",
+        "score": 3
+    },
+    {
+        "id": 408,
+        "poster": "Original Sin.jpg",
+        "trailer": "M9h96PYT7GU",
+        "title": "Original Sin",
+        "genre": "Romantico, Thriller",
+        "year": "2001",
+        "Duration": "1h 58m",
+        "score": 3
+    },
+    {
+        "id": 409,
+        "poster": "Outlander - L'ultimo Vichingo.jpg",
+        "trailer": "Pq5-tJc2_NI",
+        "title": "Outlander - L'ultimo Vichingo",
+        "genre": "Azione, Sci-fi",
+        "year": "2008",
+        "Duration": "1h 55m",
+        "score": 3
+    },
+    {
+        "id": 410,
+        "poster": "Overdose.jpg",
+        "trailer": "1wkTwUl4pi4",
+        "title": "Overdose",
+        "genre": "Azione",
+        "year": "2022",
+        "Duration": "1h 59m",
+        "score": 2
+    },
+    {
+        "id": 411,
+        "poster": "Oxford Murders - Teorema Di Un Delitto.jpg",
+        "trailer": "SF8IRB_QWhU",
+        "title": "Oxford Murders - Teorema Di Un Delitto",
+        "genre": "Thriller, Giallo",
+        "year": "2008",
+        "Duration": "1h 48m",
+        "score": 4
+    },
+    {
+        "id": 412,
+        "poster": "Oxygen.jpg",
+        "trailer": "_30_GYktTq0",
+        "title": "Oxygen",
+        "genre": "Thriller, Sci-fi",
+        "year": "2021",
+        "Duration": "1h 41m",
+        "score": 3
+    },
+    {
+        "id": 413,
+        "poster": "Pain & Gain.jpg",
+        "trailer": "KNySf46qUso",
+        "title": "Pain & Gain",
+        "genre": "Azione, Commedia",
+        "year": "2013",
+        "Duration": "2h 9m",
+        "score": 3
+    },
+    {
+        "id": 414,
+        "poster": "Pandorum - L'universo parallelo.jpg",
+        "trailer": "F3tACOCspxk",
+        "title": "Pandorum - L'universo parallelo",
+        "genre": "Sci-fi, Horror",
+        "year": "2009",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 415,
+        "poster": "Panic Room.jpg",
+        "trailer": "d-VTETPAi4A",
+        "title": "Panic Room",
+        "genre": "Thriller, Giallo",
+        "year": "2002",
+        "Duration": "1h 53m",
+        "score": 4
+    },
+    {
+        "id": 416,
+        "poster": "Papillon.jpg",
+        "trailer": "_JweWYVfSM0",
+        "title": "Papillon",
+        "genre": "Giallo, Drammatico",
+        "year": "2017",
+        "Duration": "2h 13m",
+        "score": 4
+    },
+    {
+        "id": 417,
+        "poster": "Paradise Beach - Dentro L'incubo.jpg",
+        "trailer": "8TNwLiRjb-0",
+        "title": "Paradise Beach - Dentro L'incubo",
+        "genre": "Horror, Thriller",
+        "year": "2016",
+        "Duration": "1h 26m",
+        "score": 3
+    },
+    {
+        "id": 418,
+        "poster": "Parasite.jpg",
+        "trailer": "CliPMU-SV1k",
+        "title": "Parasite",
+        "genre": "Thriller, Drammatico",
+        "year": "2019",
+        "Duration": "2h 12m",
+        "score": 4
+    },
+    {
+        "id": 419,
+        "poster": "Passengers.jpg",
+        "trailer": "WvqxcK4gUh0",
+        "title": "Passengers",
+        "genre": "Sci-fi, Romantico",
+        "year": "2016",
+        "Duration": "1h 56m",
+        "score": 3
+    },
+    {
+        "id": 420,
+        "poster": "Paura E Delirio A Las Vegas.jpg",
+        "trailer": "01NpjVj-IiE",
+        "title": "Paura E Delirio A Las Vegas",
+        "genre": "Commedia, Avventura",
+        "year": "1998",
+        "Duration": "1h 58m",
+        "score": 3
+    },
+    {
+        "id": 421,
+        "poster": "Pelé.jpg",
+        "trailer": "hM_0Y-1kkpw",
+        "title": "Pelé",
+        "genre": "Sportivo, Drammatico",
+        "year": "2016",
+        "Duration": "1h 47m",
+        "score": 4
+    },
+    {
+        "id": 422,
+        "poster": "Per Un Pugno Di Dollari.jpg",
+        "trailer": "8nHto-HM7-Q",
+        "title": "Per Un Pugno Di Dollari",
+        "genre": "Western, Drammatico",
+        "year": "1964",
+        "Duration": "1h 39m",
+        "score": 4
+    },
+    {
+        "id": 423,
+        "poster": "Platoon.jpg",
+        "trailer": "N4r7fbLNAZU",
+        "title": "Platoon",
+        "genre": "Guerra, Drammatico",
+        "year": "1986",
+        "Duration": "2h",
+        "score": 4
+    },
+    {
+        "id": 424,
+        "poster": "Pleasantville.jpg",
+        "trailer": "h3Qa_Yvz6WY",
+        "title": "Pleasantville",
+        "genre": "Commedia, Fantastico",
+        "year": "1998",
+        "Duration": "2h 4m",
+        "score": 4
+    },
+    {
+        "id": 425,
+        "poster": "Point break - Punto di Rottura.jpg",
+        "trailer": "z-6zL4OvXEA",
+        "title": "Point break - Punto di Rottura",
+        "genre": "Azione, Giallo",
+        "year": "1991",
+        "Duration": "2h 2m",
+        "score": 4
+    },
+    {
+        "id": 426,
+        "poster": "Pompei.jpg",
+        "trailer": "xBHl-zUtwS0",
+        "title": "Pompei",
+        "genre": "Azione, Avventura",
+        "year": "2014",
+        "Duration": "1h 45m",
+        "score": 3
+    },
+    {
+        "id": 427,
+        "poster": "Ponyo Sulla Scogliera.jpg",
+        "trailer": "GWRDHc0QdS8",
+        "title": "Ponyo Sulla Scogliera",
+        "genre": "Animazione, Avventura",
+        "year": "2008",
+        "Duration": "1h 43m",
+        "score": 4
+    },
+    {
+        "id": 428,
+        "poster": "Poseidon.jpg",
+        "trailer": "gHrF62_64aA",
+        "title": "Poseidon",
+        "genre": "Avventura, Azione",
+        "year": "2006",
+        "Duration": "1h 39m",
+        "score": 3
+    },
+    {
+        "id": 429,
+        "poster": "Pressure.jpg",
+        "trailer": "8yyGlDSvqDc",
+        "title": "Pressure",
+        "genre": "Thriller, Drammatico",
+        "year": "2015",
+        "Duration": "1h 31m",
+        "score": 4
+    },
+    {
+        "id": 430,
+        "poster": "Prince Of Persia - Le Sabbie Del Tempo.jpg",
+        "trailer": "ahiSN0pm01Q",
+        "title": "Prince Of Persia - Le Sabbie Del Tempo",
+        "genre": "Azione, Avventura",
+        "year": "2010",
+        "Duration": "1h 56m",
+        "score": 4
+    },
+    {
+        "id": 431,
+        "poster": "Prisoners.jpg",
+        "trailer": "XbmM0QIXNG4",
+        "title": "Prisoners",
+        "genre": "Thriller, Giallo",
+        "year": "2013",
+        "Duration": "2h 33m",
+        "score": 4
+    },
+    {
+        "id": 432,
+        "poster": "Private Life.jpg",
+        "trailer": "J1orjA9Z8g4",
+        "title": "Private Life",
+        "genre": "Drammatico",
+        "year": "2018",
+        "Duration": "2h 7m",
+        "score": 3
+    },
+    {
+        "id": 433,
+        "poster": "Profumo - Storia di un Assassino.jpg",
+        "trailer": "VYOWyIG0pbY",
+        "title": "Profumo - Storia di un Assassino",
+        "genre": "Thriller, Drammatico",
+        "year": "2006",
+        "Duration": "2h 27m",
+        "score": 4
+    },
+    {
+        "id": 434,
+        "poster": "Prometheus.jpg",
+        "trailer": "XDBSGyxL1Co",
+        "title": "Prometheus",
+        "genre": "Sci-fi, Horror",
+        "year": "2012",
+        "Duration": "2h 4m",
+        "score": 3
+    },
+    {
+        "id": 435,
+        "poster": "Psycho.jpg",
+        "trailer": "Wz719b9QUqY",
+        "title": "Psycho",
+        "genre": "Horror, Thriller",
+        "year": "1960",
+        "Duration": "1h 49m",
+        "score": 5
+    },
+    {
+        "id": 436,
+        "poster": "Pulp Fiction.jpg",
+        "trailer": "mg0GqZmoM9M",
+        "title": "Pulp Fiction",
+        "genre": "Giallo, Drammatico",
+        "year": "1994",
+        "Duration": "2h 34m",
+        "score": 4
+    },
+    {
+        "id": 437,
+        "poster": "Punisher - Zona di guerra.jpg",
+        "trailer": "lJaYHhcIaVA",
+        "title": "Punisher - Zona di guerra",
+        "genre": "Azione, Giallo",
+        "year": "2008",
+        "Duration": "1h 47m",
+        "score": 3
+    },
+    {
+        "id": 438,
+        "poster": "Qualcosa di straordinario.jpg",
+        "trailer": "pnQhX6pIDus",
+        "title": "Qualcosa di straordinario",
+        "genre": "Drammatico, Romantico",
+        "year": "2012",
+        "Duration": "1h 47m",
+        "score": 3
+    },
+    {
+        "id": 439,
+        "poster": "Qualcuno volò sul nido del cuculo.jpg",
+        "trailer": "Uw5ZL2NokVQ",
+        "title": "Qualcuno volò sul nido del cuculo",
+        "genre": "Drammatico, Commedia",
+        "year": "1976",
+        "Duration": "2h 13m",
+        "score": 5
+    },
+    {
+        "id": 440,
+        "poster": "Qualunquemente.jpg",
+        "trailer": "j16l8Z60m4g",
+        "title": "Qualunquemente",
+        "genre": "Commedia",
+        "year": "2011",
+        "Duration": "1h 36m",
+        "score": 3
+    },
+    {
+        "id": 441,
+        "poster": "Quinto Potere.jpg",
+        "trailer": "ygaOl5TvsYk",
+        "title": "Quinto Potere",
+        "genre": " Drammatico, Commedia",
+        "year": "1976",
+        "Duration": "2h 1m",
+        "score": 4
+    },
+    {
+        "id": 442,
+        "poster": "Radioactive.jpg",
+        "trailer": "tKKHZxdXJsU",
+        "title": "Radioactive",
+        "genre": "Drammatico, Romantico",
+        "year": "2019",
+        "Duration": "1h 43m",
+        "score": 3
+    },
+    {
+        "id": 443,
+        "poster": "Ralph spaccatutto.jpg",
+        "trailer": "7dvo1SI9OjM",
+        "title": "Ralph spaccatutto",
+        "genre": "Animazione, Avventura",
+        "year": "2012",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 444,
+        "poster": "Rampage - Furia animale.jpg",
+        "trailer": "Pxy-GdQDTPg",
+        "title": "Rampage - Furia animale",
+        "genre": "Azione, Avventura",
+        "year": "2018",
+        "Duration": "1h 47m",
+        "score": 3
+    },
+    {
+        "id": 445,
+        "poster": "Rango.jpg",
+        "trailer": "h7Mu_qNxOUw",
+        "title": "Rango",
+        "genre": "Animazione, Avventura",
+        "year": "2011",
+        "Duration": "1h 47m",
+        "score": 4
+    },
+    {
+        "id": 446,
+        "poster": "Ready Player One.jpg",
+        "trailer": "iE9a9wmZ_mM",
+        "title": "Ready Player One",
+        "genre": "Sci-fi, Avventura",
+        "year": "2018",
+        "Duration": "2h 20m",
+        "score": 3
+    },
+    {
+        "id": 447,
+        "poster": "Red 2.jpg",
+        "trailer": "2VoXOKRfrfg",
+        "title": "Red 2",
+        "genre": "Azione, Commedia",
+        "year": "2013",
+        "Duration": "1h 56m",
+        "score": 3
+    },
+    {
+        "id": 448,
+        "poster": "Red Dragon.jpg",
+        "trailer": "JdHpaXo-mEE",
+        "title": "Red Dragon",
+        "genre": "Thriller, Giallo",
+        "year": "2002",
+        "Duration": "2h 4m",
+        "score": 3
+    },
+    {
+        "id": 449,
+        "poster": "Red Notice.jpg",
+        "trailer": "wJQLV8fG8hc",
+        "title": "Red Notice",
+        "genre": "Azione, Commedia",
+        "year": "2021",
+        "Duration": "1h 58m",
+        "score": 3
+    },
+    {
+        "id": 450,
+        "poster": "Redemption - Identita Nascoste.jpg",
+        "trailer": "UZW00TmICvQ",
+        "title": "Redemption - Identita Nascoste",
+        "genre": "Azione, Thriller",
+        "year": "2013",
+        "Duration": "1h 40m",
+        "score": 3
+    },
+    {
+        "id": 451,
+        "poster": "Regression.jpg",
+        "trailer": "Yuf2UaFjPzA",
+        "title": "Regression",
+        "genre": "Thriller, Giallo",
+        "year": "2015",
+        "Duration": "1h 46m",
+        "score": 3
+    },
+    {
+        "id": 452,
+        "poster": "Replicas.jpg",
+        "trailer": "yh-M1bpbx7c",
+        "title": "Replicas",
+        "genre": "Sci-fi, Thriller",
+        "year": "2018",
+        "Duration": "1h 47m",
+        "score": 2
+    },
+    {
+        "id": 453,
+        "poster": "Resident Evil - Retribution.jpg",
+        "trailer": "eNHA1ATOfs8",
+        "title": "Resident Evil - Retribution",
+        "genre": "Azione, Horror",
+        "year": "2012",
+        "Duration": "1h 57m",
+        "score": 2
+    },
+    {
+        "id": 454,
+        "poster": "Ricatto d'Amore.jpg",
+        "trailer": "e0n7GNGDB-0",
+        "title": "Ricatto d'Amore",
+        "genre": "Romantico, Commedia",
+        "year": "2009",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 455,
+        "poster": "Richard Jewell.jpg",
+        "trailer": "DPFcbcATd38",
+        "title": "Richard Jewell",
+        "genre": "Drammatico, Giallo",
+        "year": "2019",
+        "Duration": "2h 9m",
+        "score": 4
+    },
+    {
+        "id": 456,
+        "poster": "Ricky Bobby.jpg",
+        "trailer": "IhA1A12oU9g",
+        "title": "Ricky Bobby",
+        "genre": "Commedia, Sportivo",
+        "year": "2006",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 457,
+        "poster": "Riddick.jpg",
+        "trailer": "1I2ukR3zWuY",
+        "title": "Riddick",
+        "genre": "Sci-fi, Avventura",
+        "year": "2013",
+        "Duration": "1h 59m",
+        "score": 3
+    },
+    {
+        "id": 458,
+        "poster": "Risorto.jpg",
+        "trailer": "Kl0q2r5_2Lg",
+        "title": "Risorto",
+        "genre": "Drammatico, Avventura",
+        "year": "2016",
+        "Duration": "1h 47m",
+        "score": 3
+    },
+    {
+        "id": 459,
+        "poster": "Ritorno Al Futuro.jpg",
+        "trailer": "LjCCDFkECv4",
+        "title": "Ritorno Al Futuro",
+        "genre": "Sci-fi, Commedia",
+        "year": "1985",
+        "Duration": "1h 56m",
+        "score": 4
+    },
+    {
+        "id": 460,
+        "poster": "Ritorno Al Futuro - Parte III.jpg",
+        "trailer": "PbxVm6StqS4",
+        "title": "Ritorno Al Futuro - Parte III",
+        "genre": "Sci-fi, Western",
+        "year": "1990",
+        "Duration": "1h 58m",
+        "score": 3
+    },
+    {
+        "id": 461,
+        "poster": "Ritorno al Futuro - Parte II.jpg",
+        "trailer": "-uzWjX1fYVI",
+        "title": "Ritorno al Futuro - Parte II",
+        "genre": "Sci-fi, Commedia",
+        "year": "1989",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 462,
+        "poster": "Robocop (1987).jpg",
+        "trailer": "I-fZJFr6C5c",
+        "title": "Robocop",
+        "genre": "Sci-fi, Azione",
+        "year": "1987",
+        "Duration": "1h 42m",
+        "score": 4
+    },
+    {
+        "id": 463,
+        "poster": "Rogue One - A Star Wars Story.jpg",
+        "trailer": "5Be8Q2QWUMQ",
+        "title": "Rogue One - A Star Wars Story",
+        "genre": "Sci-fi, Azione",
+        "year": "2016",
+        "Duration": "2h 13m",
+        "score": 4
+    },
+    {
+        "id": 464,
+        "poster": "Rounders - Il Giocatore.jpg",
+        "trailer": "vWSUCosnrQg",
+        "title": "Rounders - Il Giocatore",
+        "genre": "Drammatico, Giallo",
+        "year": "1998",
+        "Duration": "2h 1m",
+        "score": 3
+    },
+    {
+        "id": 465,
+        "poster": "Royal Affair.jpg",
+        "trailer": "XvRymZIqL28",
+        "title": "Royal Affair",
+        "genre": "Drammatico, Romantico",
+        "year": "2012",
+        "Duration": "2h 17m",
+        "score": 4
+    },
+    {
+        "id": 466,
+        "poster": "Runner Runner.jpg",
+        "trailer": "rXjh3VnDEFE",
+        "title": "Runner Runner",
+        "genre": "Thriller, Giallo",
+        "year": "2013",
+        "Duration": "1h 49m",
+        "score": 2
+    },
+    {
+        "id": 467,
+        "poster": "Salt.jpg",
+        "trailer": "XXZryPC7Gd0",
+        "title": "Salt",
+        "genre": "Azione, Giallo",
+        "year": "2010",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 468,
+        "poster": "Salyut-7 La Storia Di Un impresa.jpg",
+        "trailer": "ecVCPyYmesU",
+        "title": "Salyut-7 La Storia Di Un impresa",
+        "genre": "Azione, Drammatico",
+        "year": "2017",
+        "Duration": "1h 51m",
+        "score": 4
+    },
+    {
+        "id": 469,
+        "poster": "San Andreas.jpg",
+        "trailer": "U75JP6SMPho",
+        "title": "San Andreas",
+        "genre": "Azione, Thriller",
+        "year": "2015",
+        "Duration": "1h 54m",
+        "score": 3
+    },
+    {
+        "id": 470,
+        "poster": "Saw - L'Enigmista.jpg",
+        "trailer": "OQ0Ra6lA9oM",
+        "title": "Saw - L'Enigmista",
+        "genre": "Horror, Thriller",
+        "year": "2004",
+        "Duration": "1h 43m",
+        "score": 3
+    },
+    {
+        "id": 471,
+        "poster": "Saw 2 - La Soluzione dell'enigma.jpg",
+        "trailer": "aQhujmAZrfI",
+        "title": "Saw 2 - La Soluzione dell'enigma",
+        "genre": "Horror, Thriller",
+        "year": "2005",
+        "Duration": "1h 35m",
+        "score": 3
+    },
+    {
+        "id": 472,
+        "poster": "Saw 3 - L'enigma senza fine.jpg",
+        "trailer": "NJKq3YtPzcM",
+        "title": "Saw 3 - L'enigma senza fine",
+        "genre": "Horror, Thriller",
+        "year": "2006",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 473,
+        "poster": "Saw 4 - Il gioco continua.jpg",
+        "trailer": "AxekKIelX78",
+        "title": "Saw 4 - Il gioco continua",
+        "genre": "Horror, Thriller",
+        "year": "2007",
+        "Duration": "1h 43m",
+        "score": 3
+    },
+    {
+        "id": 474,
+        "poster": "Saw 5.jpg",
+        "trailer": "HQ8IsOQts1A",
+        "title": "Saw 5",
+        "genre": "Horror, Thriller",
+        "year": "2008",
+        "Duration": "1h 38m",
+        "score": 3
+    },
+    {
+        "id": 475,
+        "poster": "Saw 6.jpg",
+        "trailer": "SukWw_lZyE0",
+        "title": "Saw 6",
+        "genre": "Horror, Thriller",
+        "year": "2009",
+        "Duration": "1h 30m",
+        "score": 3
+    },
+    {
+        "id": 476,
+        "poster": "Saw 7 - Il capitolo finale.jpg",
+        "trailer": "GUTf-rNnxlY",
+        "title": "Saw 7 - Il capitolo finale",
+        "genre": "Horror, Thriller",
+        "year": "2010",
+        "Duration": "1h 30m",
+        "score": 3
+    },
+    {
+        "id": 477,
+        "poster": "Saw 8 - Legacy.jpg",
+        "trailer": "IPcPtRfF_RI",
+        "title": "Saw 8 - Legacy",
+        "genre": "Horror, Thriller",
+        "year": "2017",
+        "Duration": "1h 31m",
+        "score": 3
+    },
+    {
+        "id": 478,
+        "poster": "Saw 9 - Spiral - L'eredità di Saw.jpg",
+        "trailer": "yOskEbf2_rU",
+        "title": "Saw 9 - Spiral - L'eredità di Saw",
+        "genre": "Horror, Thriller",
+        "year": "2021",
+        "Duration": "1h 33m",
+        "score": 3
+    },
+    {
+        "id": 479,
+        "poster": "Scappa - Get Out.jpg",
+        "trailer": "6A-9yr8j2iE",
+        "title": "Scappa - Get Out",
+        "genre": "Horror, Thriller",
+        "year": "2017",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 480,
+        "poster": "Scarface.jpg",
+        "trailer": "57kRgZK-iAU",
+        "title": "Scarface",
+        "genre": "Giallo, Drammatico",
+        "year": "1983",
+        "Duration": "2h 50m",
+        "score": 5
+    },
+    {
+        "id": 481,
+        "poster": "Schegge di paura.jpg",
+        "trailer": "fAJOCTdfoj0",
+        "title": "Schegge di paura",
+        "genre": "Thriller, Giallo",
+        "year": "1996",
+        "Duration": "2h 10m",
+        "score": 4
+    },
+    {
+        "id": 482,
+        "poster": "Schindler's list.jpg",
+        "trailer": "AMF1AxLsE-s",
+        "title": "Schindler's list",
+        "genre": "Guerra, Drammatico",
+        "year": "1993",
+        "Duration": "3h 15m",
+        "score": 5
+    },
+    {
+        "id": 483,
+        "poster": "School of Rock.jpg",
+        "trailer": "FhvVkopLKV4",
+        "title": "School of Rock",
+        "genre": "Commedia",
+        "year": "2003",
+        "Duration": "1h 49m",
+        "score": 4
+    },
+    {
+        "id": 484,
+        "poster": "Se Mi Lasci Ti Cancello.jpg",
+        "trailer": "7egP4nqs0Fw",
+        "title": "Se Mi Lasci Ti Cancello",
+        "genre": "Romantico, Sci-fi",
+        "year": "2004",
+        "Duration": "1h 48m",
+        "score": 4
+    },
+    {
+        "id": 485,
+        "poster": "Secret Window.jpg",
+        "trailer": "7Cc27bxTom4",
+        "title": "Secret Window",
+        "genre": "Thriller, Horror",
+        "year": "2004",
+        "Duration": "1h 36m",
+        "score": 3
+    },
+    {
+        "id": 486,
+        "poster": "Self-Less.jpg",
+        "trailer": "qjL6CKhWErM",
+        "title": "Self-Less",
+        "genre": "Sci-fi, Azione",
+        "year": "2015",
+        "Duration": "1h 57m",
+        "score": 3
+    },
+    {
+        "id": 487,
+        "poster": "Serena - Una folle passione.jpg",
+        "trailer": "K11qG52KTiM",
+        "title": "Serena - Una folle passione",
+        "genre": "Drammatico",
+        "year": "2014",
+        "Duration": "1h 50m",
+        "score": 3
+    },
+    {
+        "id": 488,
+        "poster": "Seven.jpg",
+        "trailer": "sHw6NFXP2fQ",
+        "title": "Seven",
+        "genre": "Giallo, Thriller",
+        "year": "1995",
+        "Duration": "2h 7m",
+        "score": 5
+    },
+    {
+        "id": 489,
+        "poster": "Seven Sisters.jpg",
+        "trailer": "6zpPGHFpewY",
+        "title": "Seven Sisters",
+        "genre": "Sci-fi, Azione",
+        "year": "2017",
+        "Duration": "2h 3m",
+        "score": 3
+    },
+    {
+        "id": 490,
+        "poster": "Sfera.jpg",
+        "trailer": "McWcA66GRGk",
+        "title": "Sfera",
+        "genre": "Sci-fi",
+        "year": "1998",
+        "Duration": "2h 14m",
+        "score": 3
+    },
+    {
+        "id": 491,
+        "poster": "Shadow In The Cloud.jpg",
+        "trailer": "vO2tgpWuFG0",
+        "title": "Shadow In The Cloud",
+        "genre": "Guerra, Azione",
+        "year": "2020",
+        "Duration": "1h 23m",
+        "score": 3
+    },
+    {
+        "id": 492,
+        "poster": "Shaolin Soccer.jpg",
+        "trailer": "ibzZotRJjdg",
+        "title": "Shaolin Soccer",
+        "genre": "Azione, Commedia",
+        "year": "2001",
+        "Duration": "1h 52m",
+        "score": 3
+    },
+    {
+        "id": 493,
+        "poster": "Shark - Il primo squalo.jpg",
+        "trailer": "-YTYYaFJpRo",
+        "title": "Shark - Il primo squalo",
+        "genre": "Azione, Horror",
+        "year": "2018",
+        "Duration": "1h 53m",
+        "score": 3
+    },
+    {
+        "id": 494,
+        "poster": "Shark 3D.jpg",
+        "trailer": "3dnVuOP9Hy4",
+        "title": "Shark 3D",
+        "genre": "Horror, Thriller",
+        "year": "2012",
+        "Duration": "1h 33m",
+        "score": 3
+    },
+    {
+        "id": 495,
+        "poster": "Shining.jpg",
+        "trailer": "XGqfei5GGDo",
+        "title": "Shining",
+        "genre": "Horror",
+        "year": "1980",
+        "Duration": "2h 26m",
+        "score": 5
+    },
+    {
+        "id": 496,
+        "poster": "Shorta.jpg",
+        "trailer": "69pSPeVoyKM",
+        "title": "Shorta",
+        "genre": "Giallo, Thriller",
+        "year": "2020",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 497,
+        "poster": "Show Dogs - Entriamo in scena.jpg",
+        "trailer": "sTE29PthxyE",
+        "title": "Show Dogs - Entriamo in scena",
+        "genre": "Commedia",
+        "year": "2018",
+        "Duration": "1h 32m",
+        "score": 3
+    },
+    {
+        "id": 498,
+        "poster": "Shutter Island.jpg",
+        "trailer": "ROIggh_KhHo",
+        "title": "Shutter Island",
+        "genre": "Thriller, Giallo",
+        "year": "2010",
+        "Duration": "2h 18m",
+        "score": 4
+    },
+    {
+        "id": 499,
+        "poster": "Silent Hill.jpg",
+        "trailer": "jdvdJbGB0cQ",
+        "title": "Silent Hill",
+        "genre": "Horror, Thriller",
+        "year": "2006",
+        "Duration": "2h 7m",
+        "score": 4
+    },
+    {
+        "id": 500,
+        "poster": "Sin City.jpg",
+        "trailer": "O0spMfnVtZo",
+        "title": "Sin City",
+        "genre": "Azione, Giallo",
+        "year": "2005",
+        "Duration": "2h 4m",
+        "score": 4
+    },
+    {
+        "id": 501,
+        "poster": "Sinister.jpg",
+        "trailer": "b3Yytd9aVJs",
+        "title": "Sinister",
+        "genre": "Horror, Thriller",
+        "year": "2012",
+        "Duration": "1h 50m",
+        "score": 3
+    },
+    {
+        "id": 502,
+        "poster": "Skyscraper.jpg",
+        "trailer": "42N9wEOFwCE",
+        "title": "Skyscraper",
+        "genre": "Azione, Thriller",
+        "year": "2018",
+        "Duration": "1h 43m",
+        "score": 3
+    },
+    {
+        "id": 503,
+        "poster": "Snowden.jpg",
+        "trailer": "geuPXov5wUs",
+        "title": "Snowden",
+        "genre": "Thriller, Drammatico",
+        "year": "2016",
+        "Duration": "2h 14m",
+        "score": 4
+    },
+    {
+        "id": 504,
+        "poster": "Snowpiercer.jpg",
+        "trailer": "0j-w3Lg6DXo",
+        "title": "Snowpiercer",
+        "genre": "Sci-fi, Azione",
+        "year": "2013",
+        "Duration": "2h 6m",
+        "score": 4
+    },
+    {
+        "id": 505,
+        "poster": "Solo Per Vendetta.jpg",
+        "trailer": "_WXO-d9W06g",
+        "title": "Solo Per Vendetta",
+        "genre": "Thriller, Azione",
+        "year": "2011",
+        "Duration": "1h 45m",
+        "score": 3
+    },
+    {
+        "id": 506,
+        "poster": "Solo a Star Wars Story.jpg",
+        "trailer": "YEKNU3jkFsE",
+        "title": "Solo a Star Wars Story",
+        "genre": "Sci-fi, Avventura",
+        "year": "2018",
+        "Duration": "2h 15m",
+        "score": 3
+    },
+    {
+        "id": 507,
+        "poster": "Solomon Kane.jpg",
+        "trailer": "MrHT8mgaQiY",
+        "title": "Solomon Kane",
+        "genre": "Fantasico, Avventura",
+        "year": "2009",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 508,
+        "poster": "Sopravvissuto - The Martian.jpg",
+        "trailer": "lRBzBhwbswo",
+        "title": "Sopravvissuto - The Martian",
+        "genre": "Sci-fi, Avventura",
+        "year": "2015",
+        "Duration": "2h 24m",
+        "score": 4
+    },
+    {
+        "id": 509,
+        "poster": "Source Code.jpg",
+        "trailer": "EmqcIgdjjjQ",
+        "title": "Source Code",
+        "genre": "Sci-fi, Azione",
+        "year": "2011",
+        "Duration": "1h 33m",
+        "score": 4
+    },
+    {
+        "id": 510,
+        "poster": "Speed.jpg",
+        "trailer": "qDTBGj79Xl8",
+        "title": "Speed",
+        "genre": "Azione, Thriller",
+        "year": "1994",
+        "Duration": "1h 56m",
+        "score": 4
+    },
+    {
+        "id": 511,
+        "poster": "Spider-Man - No Way Home.jpg",
+        "trailer": "ZBPAGbR6AHM",
+        "title": "Spider-Man - No Way Home",
+        "genre": "Azione, Avventura",
+        "year": "2021",
+        "Duration": "2h 28m",
+        "score": 3
+    },
+    {
+        "id": 512,
+        "poster": "Splice.jpg",
+        "trailer": "P1pSog6JRlM",
+        "title": "Splice",
+        "genre": "Sci-fi, Horror",
+        "year": "2009",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 513,
+        "poster": "Split.jpg",
+        "trailer": "qkrwiM5pyCw",
+        "title": "Split",
+        "genre": "Thriller, Horror",
+        "year": "2016",
+        "Duration": "1h 57m",
+        "score": 3
+    },
+    {
+        "id": 514,
+        "poster": "Il caso Spotlight.jpg",
+        "trailer": "fF5e35u_LNc",
+        "title": "Il caso Spotlight",
+        "genre": "Drammatico, Giallo",
+        "year": "2015",
+        "Duration": "2h 8m",
+        "score": 4
+    },
+    {
+        "id": 515,
+        "poster": "Sputnik.jpg",
+        "trailer": "HmjuQBU0AB0",
+        "title": "Sputnik",
+        "genre": "Sci-fi, Thriller",
+        "year": "2020",
+        "Duration": "1h 54m",
+        "score": 3
+    },
+    {
+        "id": 516,
+        "poster": "Spy (2015).jpg",
+        "trailer": "4YV-u0w37EQ",
+        "title": "Spy",
+        "genre": "Azione, Commedia",
+        "year": "2015",
+        "Duration": "2h 10m",
+        "score": 3
+    },
+    {
+        "id": 517,
+        "poster": "Star Trek - Il futuro ha inizio.jpg",
+        "trailer": "uBXWr854LP0",
+        "title": "Star Trek - Il futuro ha inizio",
+        "genre": "Sci-fi, Azione",
+        "year": "2009",
+        "Duration": "2h 7m",
+        "score": 4
+    },
+    {
+        "id": 518,
+        "poster": "Star Trek - Into Darkness.jpg",
+        "trailer": "w3b-aUT80io",
+        "title": "Star Trek - Into Darkness",
+        "genre": "Sci-fi, Azione",
+        "year": "2013",
+        "Duration": "2h 12m",
+        "score": 4
+    },
+    {
+        "id": 519,
+        "poster": "Star Trek - Beyond.jpg",
+        "trailer": "WWyz_pmD7D8",
+        "title": "Star Trek - Beyond",
+        "genre": "Sci-fi, Azione",
+        "year": "2016",
+        "Duration": "2h 2m",
+        "score": 3
+    },
+    {
+        "id": 520,
+        "poster": "Stardust.jpg",
+        "trailer": "-BK-afg1DiY",
+        "title": "Stardust",
+        "genre": "Fantastico, Avventura",
+        "year": "2007",
+        "Duration": "2h 7m",
+        "score": 4
+    },
+    {
+        "id": 521,
+        "poster": "State of Play.jpg",
+        "trailer": "2rXoPWHEeZM",
+        "title": "State of Play",
+        "genre": "Thriller, Drammatico",
+        "year": "2009",
+        "Duration": "2h 8m",
+        "score": 3
+    },
+    {
+        "id": 522,
+        "poster": "Stato Di Grazia.jpg",
+        "trailer": "iqnCcUu0z_o",
+        "title": "Stato Di Grazia",
+        "genre": "Giallo, Drammatico",
+        "year": "1990",
+        "Duration": "2h 14m",
+        "score": 4
+    },
+    {
+        "id": 523,
+        "poster": "Stoker.jpg",
+        "trailer": "dkmvQXzBySE",
+        "title": "Stoker",
+        "genre": "Thriller, Horror",
+        "year": "2013",
+        "Duration": "1h 39m",
+        "score": 3
+    },
+    {
+        "id": 524,
+        "poster": "Storie Pazzesche.jpg",
+        "trailer": "yMelKnwbCQk",
+        "title": "Storie Pazzesche",
+        "genre": "Thriller, Drammatico",
+        "year": "2014",
+        "Duration": "2h 2m",
+        "score": 4
+    },
+    {
+        "id": 525,
+        "poster": "Strafumati.jpg",
+        "trailer": "QYPzgCrurhQ",
+        "title": "Strafumati",
+        "genre": "Commedia, Azione",
+        "year": "2008",
+        "Duration": "1h 52m",
+        "score": 3
+    },
+    {
+        "id": 526,
+        "poster": "Sully.jpg",
+        "trailer": "8-r8soVu1D8",
+        "title": "Sully",
+        "genre": "Drammatico",
+        "year": "2016",
+        "Duration": "1h 36m",
+        "score": 4
+    },
+    {
+        "id": 527,
+        "poster": "Sunshine.jpg",
+        "trailer": "GERciQ_qxC0",
+        "title": "Sunshine",
+        "genre": "Sci-fi, Thriller",
+        "year": "2007",
+        "Duration": "1h 47m",
+        "score": 4
+    },
+    {
+        "id": 528,
+        "poster": "TAU.jpg",
+        "trailer": "A2ChNZ51lew",
+        "title": "TAU",
+        "genre": "Sci-fi, Thriller",
+        "year": "2018",
+        "Duration": "1h 37m",
+        "score": 3
+    },
+    {
+        "id": 529,
+        "poster": "Taxi Driver.jpg",
+        "trailer": "UUxD4-dEzn0",
+        "title": "Taxi Driver",
+        "genre": "Drammatico",
+        "year": "1976",
+        "Duration": "1h 54m",
+        "score": 5
+    },
+    {
+        "id": 530,
+        "poster": "Tempi moderni.jpg",
+        "trailer": "2Dv40ZR69zI",
+        "title": "Tempi moderni",
+        "genre": "Commedia, Romantico",
+        "year": "1936",
+        "Duration": "1h 27m",
+        "score": 5
+    },
+    {
+        "id": 531,
+        "poster": "Terminator.jpg",
+        "trailer": "6eZqDUhBrjY",
+        "title": "Terminator",
+        "genre": "Sci-fi, Azione",
+        "year": "1984",
+        "Duration": "1h 47m",
+        "score": 4
+    },
+    {
+        "id": 532,
+        "poster": "The 33.jpg",
+        "trailer": "XFVjpa6AF2g",
+        "title": "The 33",
+        "genre": "Drammatico",
+        "year": "2015",
+        "Duration": "2h 7m",
+        "score": 4
+    },
+    {
+        "id": 533,
+        "poster": "The 9th Life of Louis Drax.jpg",
+        "trailer": "yB35JnfRjsM",
+        "title": "The 9th Life of Louis Drax",
+        "genre": "Thriller, Fantastico",
+        "year": "2016",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 534,
+        "poster": "The Abyss.jpg",
+        "trailer": "5gF6YcJZhp4",
+        "title": "The Abyss",
+        "genre": "Sci-fi, Avventura",
+        "year": "1989",
+        "Duration": "2h 19m",
+        "score": 3
+    },
+    {
+        "id": 535,
+        "poster": "The Arrival.jpg",
+        "trailer": "Rx-Kd5-ZmwY",
+        "title": "The Arrival",
+        "genre": "Sci-fi, Thriller",
+        "year": "1996",
+        "Duration": "1h 55m",
+        "score": 3
+    },
+    {
+        "id": 536,
+        "poster": "The Bad Batch.jpg",
+        "trailer": "mHptETj_2PU",
+        "title": "The Bad Batch",
+        "genre": "Horror, Thriller",
+        "year": "2016",
+        "Duration": "1h 58m",
+        "score": 3
+    },
+    {
+        "id": 537,
+        "poster": "The Banker.jpg",
+        "trailer": "738UCBxzoD4",
+        "title": "The Banker",
+        "genre": "Drammatico",
+        "year": "2020",
+        "Duration": "2h 1m",
+        "score": 4
+    },
+    {
+        "id": 538,
+        "poster": "The Batman.jpg",
+        "trailer": "JKjSqs5czLA",
+        "title": "The Batman",
+        "genre": "Azione, Avventura",
+        "year": "2022",
+        "Duration": "2h 56m",
+        "score": 4
+    },
+    {
+        "id": 539,
+        "poster": "The Beach.jpg",
+        "trailer": "yT5jIeVWuJ0",
+        "title": "The Beach",
+        "genre": "Avventura, Drammatico",
+        "year": "2000",
+        "Duration": "1h 59m",
+        "score": 3
+    },
+    {
+        "id": 540,
+        "poster": "Codice Genesi.jpg",
+        "trailer": "EZGi7Ihjqvc",
+        "title": "Codice Genesi",
+        "genre": "Azione, Avventura",
+        "year": "2010",
+        "Duration": "1h 58m",
+        "score": 4
+    },
+    {
+        "id": 541,
+        "poster": "The Boss.jpg",
+        "trailer": "RycdncILqlI",
+        "title": "The Boss",
+        "genre": "Commedia",
+        "year": "2016",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 542,
+        "poster": "The Breakfast Club.jpg",
+        "trailer": "oLUCK9qVriQ",
+        "title": "The Breakfast Club",
+        "genre": "Drammatico, Commedia",
+        "year": "1985",
+        "Duration": "1h 37m",
+        "score": 4
+    },
+    {
+        "id": 543,
+        "poster": "The Calling (2014).jpg",
+        "trailer": "QouveATbYj8",
+        "title": "The Calling",
+        "genre": "Thriller",
+        "year": "2014",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 544,
+        "poster": "The Day After Tomorrow.jpg",
+        "trailer": "II_qef2c4pY",
+        "title": "The Day After Tomorrow",
+        "genre": "Azione, Avventura",
+        "year": "2004",
+        "Duration": "2h 4m",
+        "score": 3
+    },
+    {
+        "id": 545,
+        "poster": "The Equalizer 2 - Senza perdono.jpg",
+        "trailer": "BhP8RONA6RQ",
+        "title": "The Equalizer 2 - Senza perdono",
+        "genre": "Azione, Thriller",
+        "year": "2018",
+        "Duration": "2h 1m",
+        "score": 3
+    },
+    {
+        "id": 546,
+        "poster": "The Father.jpg",
+        "trailer": "eZQCA8GJZec",
+        "title": "The Father",
+        "genre": "Drammatico",
+        "year": "2020",
+        "Duration": "1h 37m",
+        "score": 4
+    },
+    {
+        "id": 547,
+        "poster": "Il Regno Proibito.jpg",
+        "trailer": "KYdbW97krIU",
+        "title": "Il Regno Proibito",
+        "genre": "Azione, Fantastico",
+        "year": "2008",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 548,
+        "poster": "The French Dispatch.jpg",
+        "trailer": "9ds99Mwo4n0",
+        "title": "The French Dispatch",
+        "genre": "Drammatico, Commedia",
+        "year": "2021",
+        "Duration": "1h 48m",
+        "score": 3
+    },
+    {
+        "id": 549,
+        "poster": "L'Uomo Nell'Ombra.jpg",
+        "trailer": "CzyyjX7EhBk",
+        "title": "L'Uomo Nell'Ombra",
+        "genre": "Thriller, Drammatico",
+        "year": "2010",
+        "Duration": "2h 8m",
+        "score": 4
+    },
+    {
+        "id": 550,
+        "poster": "The Giver.jpg",
+        "trailer": "WmyQWGH7rzo",
+        "title": "The Giver",
+        "genre": "Sci-fi",
+        "year": "2014",
+        "Duration": "1h 37m",
+        "score": 3
+    },
+    {
+        "id": 551,
+        "poster": "The Grandmaster.jpg",
+        "trailer": "X1NQc6D7fHY",
+        "title": "The Grandmaster",
+        "genre": "Azione, Drammatico",
+        "year": "2013",
+        "Duration": "2h 10m",
+        "score": 3
+    },
+    {
+        "id": 552,
+        "poster": "The Great Wall.jpg",
+        "trailer": "UkOrfzEkJXE",
+        "title": "The Great Wall",
+        "genre": "Azione, Fantastico",
+        "year": "2016",
+        "Duration": "1h 43m",
+        "score": 3
+    },
+    {
+        "id": 553,
+        "poster": "The Hateful Eight.jpg",
+        "trailer": "AljKC5utdBY",
+        "title": "The Hateful Eight",
+        "genre": "Western, Drammatico",
+        "year": "2015",
+        "Duration": "3h 7m",
+        "score": 4
+    },
+    {
+        "id": 554,
+        "poster": "The Iceman.jpg",
+        "trailer": "mBXjWYrWz_Q",
+        "title": "The Iceman",
+        "genre": "Giallo, Thriller",
+        "year": "2012",
+        "Duration": "1h 46m",
+        "score": 3
+    },
+    {
+        "id": 555,
+        "poster": "The Illusionist.jpg",
+        "trailer": "Ul2dB7kwITg",
+        "title": "The Illusionist",
+        "genre": "Drammatico, Romantico",
+        "year": "2006",
+        "Duration": "1h 49m",
+        "score": 3
+    },
+    {
+        "id": 556,
+        "poster": "The Imitation Game.jpg",
+        "trailer": "i0JY79_Kiww",
+        "title": "The Imitation Game",
+        "genre": "Guerra, Drammatico",
+        "year": "2014",
+        "Duration": "1h 54m",
+        "score": 4
+    },
+    {
+        "id": 557,
+        "poster": "The Impossible.jpg",
+        "trailer": "dhDadGL4bio",
+        "title": "The Impossible",
+        "genre": "Drammatico, Avventura",
+        "year": "2012",
+        "Duration": "1h 54m",
+        "score": 4
+    },
+    {
+        "id": 558,
+        "poster": "The Italian Job.jpg",
+        "trailer": "0f477uHBgn4",
+        "title": "The Italian Job",
+        "genre": "Azione, Thriller",
+        "year": "2003",
+        "Duration": "1h 51m",
+        "score": 3
+    },
+    {
+        "id": 559,
+        "poster": "The Last Duel.jpg",
+        "trailer": "41WdQ8iY7D4",
+        "title": "The Last Duel",
+        "genre": "Drammatico, Azione",
+        "year": "2021",
+        "Duration": "2h 32m",
+        "score": 4
+    },
+    {
+        "id": 560,
+        "poster": "The Last Witch Hunter - L'ultimo cacciatore di streghe.jpg",
+        "trailer": "2Zhd-ElFpfY",
+        "title": "The Last Witch Hunter - L'ultimo cacciatore di streghe",
+        "genre": "Fantastico, Azione",
+        "year": "2015",
+        "Duration": "1h 46m",
+        "score": 3
+    },
+    {
+        "id": 561,
+        "poster": "The Lobster.jpg",
+        "trailer": "-l-kX8OQMEc",
+        "title": "The Lobster",
+        "genre": "Romantico, Drammatico",
+        "year": "2015",
+        "Duration": "1h 58m",
+        "score": 3
+    },
+    {
+        "id": 562,
+        "poster": "The Man with the Iron Fists.jpg",
+        "trailer": "lOWr72SluHA",
+        "title": "The Man with the Iron Fists",
+        "genre": "Azione",
+        "year": "2012",
+        "Duration": "1h 36m",
+        "score": 3
+    },
+    {
+        "id": 563,
+        "poster": "The Mask.jpg",
+        "trailer": "Y_BwQVGF8PE",
+        "title": "The Mask",
+        "genre": "Commedia, Fantastico",
+        "year": "1994",
+        "Duration": "",
+        "score": 4
+    },
+    {
+        "id": 564,
+        "poster": "The Matrix.jpg",
+        "trailer": "zLLEbao3TSM",
+        "title": "The Matrix",
+        "genre": "Sci-fi, Azione",
+        "year": "1999",
+        "Duration": "2h 16m",
+        "score": 4
+    },
+    {
+        "id": 565,
+        "poster": "The Midnight Sky.jpg",
+        "trailer": "saH4PfYtK9M",
+        "title": "The Midnight Sky",
+        "genre": "Sci-fi, Drammatico",
+        "year": "2020",
+        "Duration": "2h 2m",
+        "score": 3
+    },
+    {
+        "id": 566,
+        "poster": "The Nice Guys.jpg",
+        "trailer": "WUXde_F0W6U",
+        "title": "The Nice Guys",
+        "genre": "Azione, Commedia",
+        "year": "2016",
+        "Duration": "1h 56m",
+        "score": 3
+    },
+    {
+        "id": 567,
+        "poster": "The North Sea.jpg",
+        "trailer": "LTozU2PbGmA",
+        "title": "The North Sea",
+        "genre": "Azione, Thriller",
+        "year": "2021",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 568,
+        "poster": "The Number 23.jpg",
+        "trailer": "n2dNfVjxBZ8",
+        "title": "The Number 23",
+        "genre": "Giallo, Thriller",
+        "year": "2007",
+        "Duration": "1h 41m",
+        "score": 3
+    },
+    {
+        "id": 569,
+        "poster": "The Nun - La vocazione del male.jpg",
+        "trailer": "ag-G-nbsDrA",
+        "title": "The Nun - La vocazione del male",
+        "genre": "Horror, Thriller",
+        "year": "2018",
+        "Duration": "1h 36m",
+        "score": 2
+    },
+    {
+        "id": 570,
+        "poster": "The Party.jpg",
+        "trailer": "hjJGc1E6hMk",
+        "title": "The Party",
+        "genre": "Drammatico, Commedia",
+        "year": "2017",
+        "Duration": "1h 11m",
+        "score": 4
+    },
+    {
+        "id": 571,
+        "poster": "The Possession - Il male vive dentro di lei.jpg",
+        "trailer": "A6FisHEkMbE",
+        "title": "The Possession - Il male vive dentro di lei",
+        "genre": "Horror, ThrilleR",
+        "year": "2012",
+        "Duration": "1h 32m",
+        "score": 2
+    },
+    {
+        "id": 572,
+        "poster": "The Prestige.jpg",
+        "trailer": "ImdRAPSIAEk",
+        "title": "The Prestige",
+        "genre": "Avventura, Drammatico",
+        "year": "2006",
+        "Duration": "2h 10m",
+        "score": 4
+    },
+    {
+        "id": 573,
+        "poster": "The Protègè.jpg",
+        "trailer": "wfUS-lbPIxc",
+        "title": "The Protègè",
+        "genre": "Azione, Thriller",
+        "year": "2021",
+        "Duration": "1h 49m",
+        "score": 3
+    },
+    {
+        "id": 574,
+        "poster": "The Revenant - Redivivo.jpg",
+        "trailer": "xrctuMnFDc4",
+        "title": "The Revenant - Redivivo",
+        "genre": "Western, Avventura",
+        "year": "2015",
+        "Duration": "2h 36m",
+        "score": 4
+    },
+    {
+        "id": 575,
+        "poster": "The River Wild - Il fiume della paura.jpg",
+        "trailer": "idYPQetz6hQ",
+        "title": "The River Wild - Il fiume della paura",
+        "genre": "Azione, Thriller",
+        "year": "1994",
+        "Duration": "1h 53m",
+        "score": 3
+    },
+    {
+        "id": 576,
+        "poster": "The Road.jpg",
+        "trailer": "RjcfrQowGUY",
+        "title": "The Road",
+        "genre": "Sci-fi, Drammatico",
+        "year": "2009",
+        "Duration": "1h 59m",
+        "score": 4
+    },
+    {
+        "id": 577,
+        "poster": "The Rock.jpg",
+        "trailer": "F9JOU9RT-6s",
+        "title": "The Rock",
+        "genre": "Azione, Thriller",
+        "year": "1996",
+        "Duration": "2h 16m",
+        "score": 4
+    },
+    {
+        "id": 578,
+        "poster": "The Signal.jpg",
+        "trailer": "lfD2tnnai4k",
+        "title": "The Signal",
+        "genre": "Sci-fi, Thriller",
+        "year": "2014",
+        "Duration": "1h 37m",
+        "score": 3
+    },
+    {
+        "id": 579,
+        "poster": "The Silencing.jpg",
+        "trailer": "xLXZl1JF85c",
+        "title": "The Silencing",
+        "genre": "Giallo, Thriller",
+        "year": "2020",
+        "Duration": "1h 33m",
+        "score": 3
+    },
+    {
+        "id": 580,
+        "poster": "The Skeleton Key.jpg",
+        "trailer": "icqBGhyLBNo",
+        "title": "The Skeleton Key",
+        "genre": "Horror, Thriller",
+        "year": "2005",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 581,
+        "poster": "The Social Network.jpg",
+        "trailer": "uctcm8C6x3E",
+        "title": "The Social Network",
+        "genre": "Drammatico",
+        "year": "2010",
+        "Duration": "2h",
+        "score": 4
+    },
+    {
+        "id": 582,
+        "poster": "The Space Between Us.jpg",
+        "trailer": "2FjFJ5N2MjA",
+        "title": "The Space Between Us",
+        "genre": "Sci-fi, Romantico",
+        "year": "2017",
+        "Duration": "2h 1m",
+        "score": 3
+    },
+    {
+        "id": 583,
+        "poster": "The Tax Collector.jpg",
+        "trailer": "F7XhN8piL68",
+        "title": "The Tax Collector",
+        "genre": "Giallo, Azione",
+        "year": "2020",
+        "Duration": "1h 35m",
+        "score": 3
+    },
+    {
+        "id": 584,
+        "poster": "The Town.jpg",
+        "trailer": "84QycIm2VFM",
+        "title": "The Town",
+        "genre": "Giallo, Thriller",
+        "year": "2010",
+        "Duration": "2h 4m",
+        "score": 3
+    },
+    {
+        "id": 585,
+        "poster": "The Truman Show.jpg",
+        "trailer": "U5eLxr64LKQ",
+        "title": "The Truman Show",
+        "genre": "Drammatico, Sci-fi",
+        "year": "1998",
+        "Duration": "1h 43m",
+        "score": 4
+    },
+    {
+        "id": 586,
+        "poster": "La dura verità.jpg",
+        "trailer": "M-IiunJOqS8",
+        "title": "La dura verità",
+        "genre": "Romantico, Commedia",
+        "year": "2009",
+        "Duration": "1h 36m",
+        "score": 3
+    },
+    {
+        "id": 587,
+        "poster": "Il sacro male.jpg",
+        "trailer": "aeyVMyybqt4",
+        "title": "Il sacro male",
+        "genre": "Horror",
+        "year": "2021",
+        "Duration": "1h 39m",
+        "score": 3
+    },
+    {
+        "id": 588,
+        "poster": "The Vatican tapes.jpg",
+        "trailer": "3_WjJs5B4Og",
+        "title": "The Vatican tapes",
+        "genre": "Horror, Thriller",
+        "year": "2015",
+        "Duration": "1h 31m",
+        "score": 3
+    },
+    {
+        "id": 589,
+        "poster": "The Void - Il Vuoto.jpg",
+        "trailer": "1tug1LoMYw0",
+        "title": "The Void - Il Vuoto",
+        "genre": "Horror",
+        "year": "2017",
+        "Duration": "1h 30m",
+        "score": 3
+    },
+    {
+        "id": 590,
+        "poster": "The Walk (2015).jpg",
+        "trailer": "jIBVyABaxSo",
+        "title": "The Walk",
+        "genre": "Drammatico, Avventura",
+        "year": "2015",
+        "Duration": "2h 3m",
+        "score": 3
+    },
+    {
+        "id": 591,
+        "poster": "The Wave (2015).jpg",
+        "trailer": "04ylvOZkDq4",
+        "title": "The Wave",
+        "genre": "Thriller, Azione",
+        "year": "2015",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 592,
+        "poster": "The Young Victoria.jpg",
+        "trailer": "kpBp1mYkVzk",
+        "title": "The Young Victoria",
+        "genre": "Drammatico, Romantico",
+        "year": "2009",
+        "Duration": "1h 40m",
+        "score": 4
+    },
+    {
+        "id": 593,
+        "poster": "The Zero Theorem.jpg",
+        "trailer": "eoa8cVG1HWw",
+        "title": "The Zero Theorem",
+        "genre": "Sci-fi",
+        "year": "2013",
+        "Duration": "1h 47m",
+        "score": 3
+    },
+    {
+        "id": 594,
+        "poster": "The game - Nessuna regola.jpg",
+        "trailer": "MKjph0BRuqc",
+        "title": "The game - Nessuna regola",
+        "genre": "Thriller, Giallo",
+        "year": "1997",
+        "Duration": "2h 9m",
+        "score": 3
+    },
+    {
+        "id": 595,
+        "poster": "Punto d'impatto.jpg",
+        "trailer": "uaWSDKhRPzY",
+        "title": "Punto d'impatto",
+        "genre": "Thriller, Drammatico",
+        "year": "2011",
+        "Duration": "1h 41m",
+        "score": 3
+    },
+    {
+        "id": 596,
+        "poster": "Thor Love and Thunder.jpg",
+        "trailer": "5mKjfZHDn_M",
+        "title": "Thor Love and Thunder",
+        "genre": "Azione, Avventura",
+        "year": "2022",
+        "Duration": "1h 59m",
+        "score": 2
+    },
+    {
+        "id": 597,
+        "poster": "Titanic.jpg",
+        "trailer": "IhTpfdA8EJU",
+        "title": "Titanic",
+        "genre": "Romantico, Drammatico",
+        "year": "1997",
+        "Duration": "3h 30m",
+        "score": 4
+    },
+    {
+        "id": 598,
+        "poster": "Tombstone.jpg",
+        "trailer": "7FvmRmWyYtI",
+        "title": "Tombstone",
+        "genre": "Western, Drammatico",
+        "year": "1993",
+        "Duration": "2h 14m",
+        "score": 4
+    },
+    {
+        "id": 599,
+        "poster": "Tomorrowland - Il mondo di domani.jpg",
+        "trailer": "YnB9__lltKM",
+        "title": "Tomorrowland - Il mondo di domani",
+        "genre": "Sci-fi, Avventura",
+        "year": "2015",
+        "Duration": "2h 10m",
+        "score": 3
+    },
+    {
+        "id": 600,
+        "poster": "Total recall - Atto di forza (2012).jpg",
+        "trailer": "vX5PhW-0L4E",
+        "title": "Total recall - Atto di forza",
+        "genre": "Azione, Sci-fi",
+        "year": "2012",
+        "Duration": "2h 10m",
+        "score": 3
+    },
+    {
+        "id": 601,
+        "poster": "Tower Heist - Colpo ad Alto Livello.jpg",
+        "trailer": "tDlEPdDhF_o",
+        "title": "Tower Heist - Colpo ad Alto Livello",
+        "genre": "Commedia, Giallo",
+        "year": "2011",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 602,
+        "poster": "Trainspotting.jpg",
+        "trailer": "qz157ucHnlo",
+        "title": "Trainspotting",
+        "genre": "Giallo, Drammatico",
+        "year": "1996",
+        "Duration": "1h 34m",
+        "score": 4
+    },
+    {
+        "id": 603,
+        "poster": "Transcendence.jpg",
+        "trailer": "VDcN2TMyd7w",
+        "title": "Transcendence",
+        "genre": "Sci-fi, Thriller",
+        "year": "2014",
+        "Duration": "1h 59m",
+        "score": 3
+    },
+    {
+        "id": 604,
+        "poster": "Travolti da un insolito destino nell'azzurro mare d'agosto.jpg",
+        "trailer": "VxYvagemWBo",
+        "title": "Travolti da un insolito destino nell'azzurro mare d'agosto",
+        "genre": "Romantico, Commedia",
+        "year": "1974",
+        "Duration": "1h 56m",
+        "score": 4
+    },
+    {
+        "id": 605,
+        "poster": "Tre Manifesti a Ebbing, Missouri.jpg",
+        "trailer": "hSxEGQM8J6s",
+        "title": "Tre Manifesti a Ebbing, Missouri",
+        "genre": "Drammatico, Giallo",
+        "year": "2017",
+        "Duration": "1h 55m",
+        "score": 4
+    },
+    {
+        "id": 606,
+        "poster": "Tron - Legacy.jpg",
+        "trailer": "q9uVHBxsZU8",
+        "title": "Tron - Legacy",
+        "genre": "Sci-fi, Azione",
+        "year": "2010",
+        "Duration": "2h 5m",
+        "score": 4
+    },
+    {
+        "id": 607,
+        "poster": "Troy.jpg",
+        "trailer": "cLH3ejsCeMc",
+        "title": "Troy",
+        "genre": "Guerra, Avventura",
+        "year": "2004",
+        "Duration": "3h 16m",
+        "score": 4
+    },
+    {
+        "id": 608,
+        "poster": "True Lies.jpg",
+        "trailer": "ghZRm3PH_w8",
+        "title": "True Lies",
+        "genre": "Azione, Commedia",
+        "year": "1994",
+        "Duration": "2h 24m",
+        "score": 4
+    },
+    {
+        "id": 609,
+        "poster": "Tutti I Soldi Del Mondo.jpg",
+        "trailer": "eFfKgsMUX-k",
+        "title": "Tutti I Soldi Del Mondo",
+        "genre": "Thriller, Giallo",
+        "year": "2017",
+        "Duration": "2h 13m",
+        "score": 3
+    },
+    {
+        "id": 610,
+        "poster": "Tutto può succedere.jpg",
+        "trailer": "j4vdBq8yvEU",
+        "title": "Tutto può succedere",
+        "genre": "Romantico, Commedia",
+        "year": "2003",
+        "Duration": "2h 8m",
+        "score": 4
+    },
+    {
+        "id": 611,
+        "poster": "Twister (1996).jpg",
+        "trailer": "XD9w9E_8g5Q",
+        "title": "Twister",
+        "genre": "Azione, Drammatico",
+        "year": "1996",
+        "Duration": "1h 53m",
+        "score": 3
+    },
+    {
+        "id": 612,
+        "poster": "Un Poliziotto Ancora In Prova.jpg",
+        "trailer": "RniS1yfyCOg",
+        "title": "Un Poliziotto Ancora In Prova",
+        "genre": "Commedia, Azione",
+        "year": "2016",
+        "Duration": "1h 42m",
+        "score": 3
+    },
+    {
+        "id": 613,
+        "poster": "Un Weekend Da Bamboccioni.jpg",
+        "trailer": "ek14SBGtAnI",
+        "title": "Un Weekend Da Bamboccioni",
+        "genre": "Commedia",
+        "year": "2010",
+        "Duration": "1h 42m",
+        "score": 3
+    },
+    {
+        "id": 614,
+        "poster": "Un giorno di ordinaria follia.jpg",
+        "trailer": "N6_rtKprpR0",
+        "title": "Un giorno di ordinaria follia",
+        "genre": "Azione, Giallo",
+        "year": "1993",
+        "Duration": "1h 53m",
+        "score": 4
+    },
+    {
+        "id": 615,
+        "poster": "Una Donna Promettente.jpg",
+        "trailer": "K8BxDgykZnQ",
+        "title": "Una Donna Promettente",
+        "genre": "Thriller, Giallo",
+        "year": "2020",
+        "Duration": "1h 53m",
+        "score": 3
+    },
+    {
+        "id": 616,
+        "poster": "Una Settimana Da Dio.jpg",
+        "trailer": "7XU7ivcsVFU",
+        "title": "Una Settimana Da Dio",
+        "genre": "Commedia, Fantastico",
+        "year": "2003",
+        "Duration": "1h 41m",
+        "score": 3
+    },
+    {
+        "id": 617,
+        "poster": "Una Spia E Mezzo.jpg",
+        "trailer": "dACoMZ7AX_Y",
+        "title": "Una Spia E Mezzo",
+        "genre": "Commedia, Azione",
+        "year": "2016",
+        "Duration": "1h 54m",
+        "score": 3
+    },
+    {
+        "id": 618,
+        "poster": "Una Vita Al Massimo.jpg",
+        "trailer": "Huk2DC_3JLk",
+        "title": "Una Vita Al Massimo",
+        "genre": "Romantico, Giallo",
+        "year": "1993",
+        "Duration": "2h",
+        "score": 3
+    },
+    {
+        "id": 619,
+        "poster": "Underwater.jpg",
+        "trailer": "vSQRg2kI65E",
+        "title": "Underwater",
+        "genre": "Horror, Sci-fi",
+        "year": "2020",
+        "Duration": "1h 35m",
+        "score": 3
+    },
+    {
+        "id": 620,
+        "poster": "Underworld.jpg",
+        "trailer": "7ojYaU4F3fE",
+        "title": "Underworld",
+        "genre": "Azione, Fantastico",
+        "year": "2003",
+        "Duration": "2h 1m",
+        "score": 3
+    },
+    {
+        "id": 621,
+        "poster": "Underworld 2 - Evolution.jpg",
+        "trailer": "zyuXjT1DEKM",
+        "title": "Underworld 2 - Evolution",
+        "genre": "Azione, Fantastico",
+        "year": "2006",
+        "Duration": "1h 46m",
+        "score": 3
+    },
+    {
+        "id": 622,
+        "poster": "Underworld 3 - La Ribellione Dei Lycans.jpg",
+        "trailer": "eR1SQ6yM7XA",
+        "title": "Underworld 3 - La Ribellione Dei Lycans",
+        "genre": "Azione, Fantastico",
+        "year": "2009",
+        "Duration": "1h 33m",
+        "score": 3
+    },
+    {
+        "id": 623,
+        "poster": "Underworld 4 - Il Risveglio.jpg",
+        "trailer": "MYNV8CcyHlw",
+        "title": "Underworld 4 - Il Risveglio",
+        "genre": "Azione, Fantastico",
+        "year": "2012",
+        "Duration": "1h 28m",
+        "score": 3
+    },
+    {
+        "id": 624,
+        "poster": "Valerian e la città dei mille pianeti.jpg",
+        "trailer": "PY2Cne1WhCk",
+        "title": "Valerian e la città dei mille pianeti",
+        "genre": "Sci-fi, Azione",
+        "year": "2017",
+        "Duration": "2h 17m",
+        "score": 3
+    },
+    {
+        "id": 625,
+        "poster": "Vanilla Sky.jpg",
+        "trailer": "psejif7C6cM",
+        "title": "Vanilla Sky",
+        "genre": "Thriller, Romantico",
+        "year": "2001",
+        "Duration": "2h 16m",
+        "score": 3
+    },
+    {
+        "id": 626,
+        "poster": "Ve ne dovevate andare.jpg",
+        "trailer": "Bw0-cV_J9q4",
+        "title": "Ve ne dovevate andare",
+        "genre": "Thriller",
+        "year": "2020",
+        "Duration": "1h 33m",
+        "score": 3
+    },
+    {
+        "id": 627,
+        "poster": "Vero come la finzione.jpg",
+        "trailer": "DjbaQVLFDaA",
+        "title": "Vero come la finzione",
+        "genre": "Commedia, Fantastico",
+        "year": "2006",
+        "Duration": "1h 53m",
+        "score": 4
+    },
+    {
+        "id": 628,
+        "poster": "Viaggio Al Centro Della Terra.jpg",
+        "trailer": "vvXEh4F_dxo",
+        "title": "Viaggio Al Centro Della Terra",
+        "genre": "Avventura, Fantastico",
+        "year": "2008",
+        "Duration": "1h 33m",
+        "score": 3
+    },
+    {
+        "id": 629,
+        "poster": "Viaggio Nell' Isola Misteriosa.jpg",
+        "trailer": "OLmWZk8-1Wc",
+        "title": "Viaggio Nell' Isola Misteriosa",
+        "genre": "Avventura, Fantastico",
+        "year": "2012",
+        "Duration": "1h 34m",
+        "score": 3
+    },
+    {
+        "id": 630,
+        "poster": "Wall.E.jpg",
+        "trailer": "PE77OLo6s5A",
+        "title": "Wall.E",
+        "genre": "Animazione, Avventura",
+        "year": "2008",
+        "Duration": "1h 38m",
+        "score": 5
+    },
+    {
+        "id": 631,
+        "poster": "Warcraft.jpg",
+        "trailer": "Udea49oonZ0",
+        "title": "Warcraft",
+        "genre": "Azione, Fantastico",
+        "year": "2016",
+        "Duration": "2h 3m",
+        "score": 3
+    },
+    {
+        "id": 632,
+        "poster": "Wargames (1983).jpg",
+        "trailer": "rHo6rQueg4o",
+        "title": "Wargames",
+        "genre": "Thriller, Sci-fi",
+        "year": "1983",
+        "Duration": "1h 54m",
+        "score": 4
+    },
+    {
+        "id": 633,
+        "poster": "Waterworld.jpg",
+        "trailer": "ogkFFRekLPs",
+        "title": "Waterworld",
+        "genre": "Azione, Sci-fi",
+        "year": "1995",
+        "Duration": "2h 15m",
+        "score": 3
+    },
+    {
+        "id": 634,
+        "poster": "What Women Want - Quello che le donne vogliono (2000).jpg",
+        "trailer": "cgB6GDZjlCA",
+        "title": "What Women Want - Quello che le donne vogliono",
+        "genre": "Romantico, Commedia",
+        "year": "2000",
+        "Duration": "2h 7m",
+        "score": 3
+    },
+    {
+        "id": 635,
+        "poster": "Whiplash.jpg",
+        "trailer": "bzGzdWUy7HU",
+        "title": "Whiplash",
+        "genre": "Drammatico",
+        "year": "2014",
+        "Duration": "1h 47m",
+        "score": 4
+    },
+    {
+        "id": 636,
+        "poster": "Willy Wonka e la fabbrica di cioccolato (1971).jpg",
+        "trailer": "MGLF1PBgb40",
+        "title": "Willy Wonka e la fabbrica di cioccolato",
+        "genre": "Fantastico, Avventura",
+        "year": "1971",
+        "Duration": "1h 38m",
+        "score": 4
+    },
+    {
+        "id": 637,
+        "poster": "Il Cielo Sopra Berlino.jpg",
+        "trailer": "FPnlnH6a1aI",
+        "title": "Il Cielo Sopra Berlino",
+        "genre": "Fantastico, Romantico",
+        "year": "1987",
+        "Duration": "2h 8m",
+        "score": 4
+    },
+    {
+        "id": 638,
+        "poster": "Wonder Woman.jpg",
+        "trailer": "1IXlwhk5d1c",
+        "title": "Wonder Woman",
+        "genre": "Azione, Avventura",
+        "year": "2017",
+        "Duration": "2h 21m",
+        "score": 3
+    },
+    {
+        "id": 639,
+        "poster": "World Trade Center.jpg",
+        "trailer": "1TjON_2WYQM",
+        "title": "World Trade Center",
+        "genre": "Drammatico, Azione",
+        "year": "2006",
+        "Duration": "2h 9m",
+        "score": 4
+    },
+    {
+        "id": 640,
+        "poster": "World War Z.jpg",
+        "trailer": "rAt7VP0B1OI",
+        "title": "World War Z",
+        "genre": "Horror, Azione",
+        "year": "2013",
+        "Duration": "1h 56m",
+        "score": 3
+    },
+    {
+        "id": 641,
+        "poster": "Yes Man.jpg",
+        "trailer": "im2zMrInSuo",
+        "title": "Yes Man",
+        "genre": "Commedia, Romantico",
+        "year": "2008",
+        "Duration": "1h 44m",
+        "score": 3
+    },
+    {
+        "id": 642,
+        "poster": "Young Adult.jpg",
+        "trailer": "PKBjJJwrWyo",
+        "title": "Young Adult",
+        "genre": "Drammatico, Commedia",
+        "year": "2011",
+        "Duration": "1h 34m",
+        "score": 3
+    },
+    {
+        "id": 643,
+        "poster": "Zodiac.jpg",
+        "trailer": "_89NIAyeDCA",
+        "title": "Zodiac",
+        "genre": "Thriller, Giallo",
+        "year": "2007",
+        "Duration": "2h 37m",
+        "score": 4
+    },
+    {
+        "id": 644,
+        "poster": "Zohan - Tutte Le Donne Vengono Al Pettine.jpg",
+        "trailer": "RuHEx-Tv7I0",
+        "title": "Zohan - Tutte Le Donne Vengono Al Pettine",
+        "genre": "Commedia, Azione",
+        "year": "2008",
+        "Duration": "1h 53m",
+        "score": 3
+    },
+    {
+        "id": 645,
+        "poster": "Zona 414.jpg",
+        "trailer": "84-hUaQtGbg",
+        "title": "Zona 414",
+        "genre": "Sci-fi, Thriller",
+        "year": "2021",
+        "Duration": "1h 39m",
+        "score": 3
+    },
+    {
+        "id": 646,
+        "poster": "Zoolander.jpg",
+        "trailer": "2wrwohrui2g",
+        "title": "Zoolander",
+        "genre": "Commedia",
+        "year": "2001",
+        "Duration": "1h 29m",
+        "score": 3
+    },
+    {
+        "id": 647,
+        "poster": "Zoolander 2.jpg",
+        "trailer": "g-AQr5lUiAw",
+        "title": "Zoolander 2",
+        "genre": "Commedia, Azione",
+        "year": "2016",
+        "Duration": "1h 42m",
+        "score": 3
+    },
+    {
+        "id": 648,
+        "poster": "Uncharted.jpg",
+        "trailer": "L4PY6AEVlcs",
+        "title": "Uncharted",
+        "genre": "Azione, Avventura",
+        "year": "2022",
+        "Duration": "1h 56m",
+        "score": 2
+    },
+    {
+        "id": 649,
+        "poster": "Crimes Of The Future.jpg",
+        "trailer": "X4hpDL58bqM",
+        "title": "Crimes Of The Future",
+        "genre": "Sci-fi, Horror",
+        "year": "2022",
+        "Duration": "1h 47m",
+        "score": 2
+    },
+    {
+        "id": 650,
+        "poster": "Avatar.jpg",
+        "trailer": "ZD-nxEqCPrc",
+        "title": "Avatar",
+        "genre": "Sci-fi, Azione",
+        "year": "2009",
+        "Duration": "2h 42m",
+        "score": 4
+    },
+    {
+        "id": 651,
+        "poster": "Avatar 2.jpg",
+        "trailer": "MLp7-KB-xdk",
+        "title": "Avatar 2",
+        "genre": "Sci-fi, Azione",
+        "year": "2022",
+        "Duration": "3h 12m",
+        "score": 4
+    }
+]

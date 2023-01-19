@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/style.css">
+    <title>Filmania webapp</title>
+
+</head>
+
+<body>
+
+    <div id="container">
+        <a href="#container" id="btn-up">&Hat;</a>
+        <div id="player">
+            <div id="player-close">X</div>
+        </div>
+        <h1 id="title">Filmania &#127916;<span id="nfilm"></span></h1>
+        <div id="film-form">
+            <div style="display: flex; padding: 0;">
+                <input type="text" name="film-title" id="film-title" placeholder="titolo film..." autocomplete="off">
+                <input type="button" id="film-title-reset" value="Cancella">
+            </div>
+           
+            <select name="film-genre" id="film-genre">
+                <option value="tutti" selected>Tutti</option>
+                <option value="Animazione">Animazione</option>
+                <option value="Avventura">Avventura</option>
+                <option value="Azione">Azione</option>
+                <option value="Commedia">Commedia</option>
+                <option value="Drammatico">Drammatico</option>
+                <option value="Giallo">Giallo</option>
+                <option value="Guerra">Guerra</option>
+                <option value="Fantastico">Fantastico</option>
+                <option value="Horror">Horror</option>
+                <option value="Romantico">Romantico</option>
+                <option value="Sci-fi">Sci-fi</option>
+                <option value="Sportivo">Sportivo</option>
+                <option value="Storico">Storico</option>
+                <option value="Thriller">Thriller</option>
+                <option value="Western">Western</option>
+            </select>
+            <select name="orderby" id="orderby">
+                <option disabled>Ordina per:</option>
+                <option value="title" selected>Titolo</option>
+                <option value="score">Stelle</option>
+                <option value="year">Anno</option>
+            </select>
+            <select name="ordertype" id="ordertype">
+                <option value="asc" selected>Ascendente</option>
+                <option value="desc">Discendente</option>
+            </select>
+            
+            <input type="button" value="cerca" id="film-search-btn">
+        </div>
+        <div id="pagination"></div>
+        <div id="film-cards"></div>
+    </div>
+    </div>
+    <script type="module" src="./src/main.js"></script>
+</body>
+
+</html>

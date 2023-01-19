@@ -1,0 +1,15 @@
+{
+  "name": "filmania",
+  "version": "1.0.0",
+  "description": "filmania webapp",
+  "private": "true",
+  "type": "commonjs",
+  "scripts": {
+    "ftjson": "node ./utils/fileToJson.js"
+  },
+  "author": "Marcello Pagano",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.31.0"
+  }
+}
