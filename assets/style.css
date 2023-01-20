@@ -115,6 +115,14 @@ body {
     gap: 10px;
 }
 
+#film-title {
+    width: 200px;
+}
+
+#film-title-reset {
+    width: 100px;
+}
+
 #film-form * {
     font-size: 1.2rem;
     padding: 5px;
