@@ -55,6 +55,7 @@ export const cardsView = (
                 const play = document.createElement('span')
                 play.classList.add('film-card-play')
                 img.src = `./poster/${obj[key]}`
+                img.setAttribute('loading', 'lazy')
                 item.append(img, play)
             } else if (key == 'trailer') {
                 item.classList.add('film-card-trailer')
@@ -82,11 +83,16 @@ export const cardsView = (
     })
 }
 
-export const pagination = (paginationsticky, maxSlice, sliceRange, filmCards, data, plays, player) => {
+export const pagination = (
+    paginationsticky,
+    maxSlice, sliceRange,
+    filmCards,
+    data,
+    plays,
+    player,
+) => {
     paginationsticky.textContent = ''
     // generation pagination
-    const pagination = document.createElement('div')
-    pagination.classList.add('pagination')
     for (let i = 1; i <= maxSlice; i++) {
         const link = document.createElement('a')
         // add event to each link pagination
