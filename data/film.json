@@ -7194,9 +7194,49 @@
         "poster": "The Help.jpg",
         "trailer": "UANlpj7ex7M",
         "title": "The Help",
-        "genre": "Drammatico, Romantico ",
+        "genre": "Drammatico, Romantico",
         "year": "2011",
         "Duration": "2h 26m",
+        "score": 4
+    },
+    {
+        "id": 721,
+        "poster": "Prey.jpg",
+        "trailer": "CGdhD3xCmro",
+        "title": "Prey",
+        "genre": "Azione, Sci-fi",
+        "year": "2022",
+        "Duration": "1h 40m",
+        "score": 3
+    },
+    {
+        "id": 722,
+        "poster": "Jung_e.jpg",
+        "trailer": "BVT4abmSteI",
+        "title": "Jung_e",
+        "genre": "Sci-fi, Azione",
+        "year": "2023",
+        "Duration": "1h 39m",
+        "score": 3
+    },
+    {
+        "id": 723,
+        "poster": "Jurassic World - Il dominio.jpg",
+        "trailer": "k3-MNdzQHHE",
+        "title": "Jurassic World - Il dominio",
+        "genre": "Azione, Sci-fi",
+        "year": "2022",
+        "Duration": "2h 27m",
+        "score": 3
+    },
+    {
+        "id": 724,
+        "poster": "The Pale Blue Eye - I Delitti Di West Point.jpg",
+        "trailer": "witEvE5a8HU",
+        "title": "The Pale Blue Eye - I Delitti Di West Point",
+        "genre": "Giallo, Thriller",
+        "year": "2022",
+        "Duration": "2h 8m",
         "score": 4
     }
 ]
